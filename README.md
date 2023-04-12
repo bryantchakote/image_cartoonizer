@@ -1,2 +1,2 @@
 # image_cartoonizer
-Cartoonize images using traditional computer vision, then train a GAN to do it 
+This project has two objectives: cartoonize images using traditional computer vision, then train a GAN to perform the same task. 
