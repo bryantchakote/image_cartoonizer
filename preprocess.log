@@ -1,1 +1,1389 @@
-2023-04-19 11:22:51,027 Accessing the folder of images
+2023-04-21 16:33:18,800 25 Accessing the folder of images
+2023-04-21 16:33:18,800 29 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images
+2023-04-21 16:33:18,800 34 Cartoonization process on the images
+2023-04-21 16:33:18,800 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\1.jpg
+2023-04-21 16:33:18,816 59 Filtering using gray scale image
+2023-04-21 16:33:19,393 67 Edge extraction
+2023-04-21 16:33:19,393 72 Canny edge extraction
+2023-04-21 16:33:19,400 119 lauching the cartoonization operation with gradient
+2023-04-21 16:33:19,401 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:33:19,401 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:33:19,401 134 Converting cartoon back to rgb
+2023-04-21 16:33:19,401 138 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2023-04-21 16:33:19,402 157 Saving image in transform folder
+2023-04-21 16:33:19,402 166 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+
+2023-04-21 16:33:19,402 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\10.jpg
+2023-04-21 16:33:19,411 53 Filtering using original image
+2023-04-21 16:33:20,121 67 Edge extraction
+2023-04-21 16:33:20,121 78 Adaptative threshold edge extraction
+2023-04-21 16:33:20,121 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:33:20,121 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:33:20,121 99 dilation lauched
+2023-04-21 16:33:20,122 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:33:20,123 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:33:20,123 134 Converting cartoon back to rgb
+2023-04-21 16:33:20,124 157 Saving image in transform folder
+2023-04-21 16:33:20,132 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\100.jpg
+2023-04-21 16:33:20,254 53 Filtering using original image
+2023-04-21 16:33:25,067 67 Edge extraction
+2023-04-21 16:33:25,067 72 Canny edge extraction
+2023-04-21 16:33:25,139 99 dilation lauched
+2023-04-21 16:33:25,144 119 lauching the cartoonization operation with gradient
+2023-04-21 16:33:25,157 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:33:25,157 134 Converting cartoon back to rgb
+2023-04-21 16:33:25,164 157 Saving image in transform folder
+2023-04-21 16:33:25,303 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\101.jpg
+2023-04-21 16:33:25,389 59 Filtering using gray scale image
+2023-04-21 16:33:25,800 67 Edge extraction
+2023-04-21 16:33:25,800 72 Canny edge extraction
+2023-04-21 16:33:25,816 99 dilation lauched
+2023-04-21 16:33:25,824 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:33:25,836 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:33:25,836 134 Converting cartoon back to rgb
+2023-04-21 16:33:25,841 157 Saving image in transform folder
+2023-04-21 16:33:25,975 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\102.jpg
+2023-04-21 16:33:26,085 59 Filtering using gray scale image
+2023-04-21 16:33:26,096 67 Edge extraction
+2023-04-21 16:33:26,096 78 Adaptative threshold edge extraction
+2023-04-21 16:33:26,096 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:33:26,114 99 dilation lauched
+2023-04-21 16:33:26,122 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:33:26,132 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:33:26,132 134 Converting cartoon back to rgb
+2023-04-21 16:33:26,136 157 Saving image in transform folder
+2023-04-21 16:33:26,222 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\103.jpg
+2023-04-21 16:33:26,325 59 Filtering using gray scale image
+2023-04-21 16:33:26,592 67 Edge extraction
+2023-04-21 16:33:26,593 72 Canny edge extraction
+2023-04-21 16:33:26,614 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:33:26,627 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:33:26,627 134 Converting cartoon back to rgb
+2023-04-21 16:33:26,631 157 Saving image in transform folder
+2023-04-21 16:33:26,822 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\104.jpg
+2023-04-21 16:33:26,942 59 Filtering using gray scale image
+2023-04-21 16:33:27,237 67 Edge extraction
+2023-04-21 16:33:27,237 72 Canny edge extraction
+2023-04-21 16:33:27,254 119 lauching the cartoonization operation with gradient
+2023-04-21 16:33:27,261 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:33:27,261 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:33:27,261 134 Converting cartoon back to rgb
+2023-04-21 16:33:27,269 157 Saving image in transform folder
+2023-04-21 16:33:27,439 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\105.jpg
+2023-04-21 16:33:27,622 59 Filtering using gray scale image
+2023-04-21 16:33:42,220 67 Edge extraction
+2023-04-21 16:33:42,220 72 Canny edge extraction
+2023-04-21 16:33:42,235 99 dilation lauched
+2023-04-21 16:33:42,243 119 lauching the cartoonization operation with gradient
+2023-04-21 16:33:42,249 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:33:42,249 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:33:42,249 134 Converting cartoon back to rgb
+2023-04-21 16:33:42,256 157 Saving image in transform folder
+2023-04-21 16:33:42,426 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\106.jpg
+2023-04-21 16:33:42,621 53 Filtering using original image
+2023-04-21 16:34:27,823 67 Edge extraction
+2023-04-21 16:34:27,824 72 Canny edge extraction
+2023-04-21 16:34:27,879 99 dilation lauched
+2023-04-21 16:34:27,889 119 lauching the cartoonization operation with gradient
+2023-04-21 16:34:27,908 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:34:27,908 134 Converting cartoon back to rgb
+2023-04-21 16:34:27,915 157 Saving image in transform folder
+2023-04-21 16:34:28,137 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\107.jpg
+2023-04-21 16:34:28,297 59 Filtering using gray scale image
+2023-04-21 16:34:41,500 67 Edge extraction
+2023-04-21 16:34:41,500 72 Canny edge extraction
+2023-04-21 16:34:41,514 119 lauching the cartoonization operation with gradient
+2023-04-21 16:34:41,519 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:34:41,519 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:34:41,520 134 Converting cartoon back to rgb
+2023-04-21 16:34:41,527 157 Saving image in transform folder
+2023-04-21 16:34:41,769 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\108.jpg
+2023-04-21 16:34:41,992 59 Filtering using gray scale image
+2023-04-21 16:34:43,415 67 Edge extraction
+2023-04-21 16:34:43,415 78 Adaptative threshold edge extraction
+2023-04-21 16:34:43,415 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:34:43,560 99 dilation lauched
+2023-04-21 16:34:43,591 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:34:43,603 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:34:43,603 134 Converting cartoon back to rgb
+2023-04-21 16:34:43,607 157 Saving image in transform folder
+2023-04-21 16:34:43,764 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\109.jpg
+2023-04-21 16:34:43,953 59 Filtering using gray scale image
+2023-04-21 16:34:56,074 67 Edge extraction
+2023-04-21 16:34:56,074 78 Adaptative threshold edge extraction
+2023-04-21 16:34:56,074 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:34:56,075 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1675: error: (-215:Assertion failed) blockSize % 2 == 1 && blockSize > 1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:34:56,075 99 dilation lauched
+2023-04-21 16:34:56,083 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:34:56,087 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:34:56,087 134 Converting cartoon back to rgb
+2023-04-21 16:34:56,091 157 Saving image in transform folder
+2023-04-21 16:34:56,232 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\11.jpg
+2023-04-21 16:34:56,245 59 Filtering using gray scale image
+2023-04-21 16:34:57,909 67 Edge extraction
+2023-04-21 16:34:57,909 72 Canny edge extraction
+2023-04-21 16:34:57,915 99 dilation lauched
+2023-04-21 16:34:57,917 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:34:57,920 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:34:57,921 134 Converting cartoon back to rgb
+2023-04-21 16:34:57,921 157 Saving image in transform folder
+2023-04-21 16:34:57,932 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\110.jpg
+2023-04-21 16:34:58,140 53 Filtering using original image
+2023-04-21 16:34:58,164 67 Edge extraction
+2023-04-21 16:34:58,164 78 Adaptative threshold edge extraction
+2023-04-21 16:34:58,166 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:34:58,166 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:34:58,166 119 lauching the cartoonization operation with gradient
+2023-04-21 16:34:58,168 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:34:58,168 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:34:58,168 134 Converting cartoon back to rgb
+2023-04-21 16:34:58,169 157 Saving image in transform folder
+2023-04-21 16:34:58,179 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\111.jpg
+2023-04-21 16:34:58,279 59 Filtering using gray scale image
+2023-04-21 16:34:58,745 67 Edge extraction
+2023-04-21 16:34:58,745 72 Canny edge extraction
+2023-04-21 16:34:58,762 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:34:58,767 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:34:58,767 134 Converting cartoon back to rgb
+2023-04-21 16:34:58,771 157 Saving image in transform folder
+2023-04-21 16:34:58,940 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\112.jpg
+2023-04-21 16:34:59,168 59 Filtering using gray scale image
+2023-04-21 16:35:01,117 67 Edge extraction
+2023-04-21 16:35:01,117 72 Canny edge extraction
+2023-04-21 16:35:01,135 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:35:01,151 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:01,151 134 Converting cartoon back to rgb
+2023-04-21 16:35:01,155 157 Saving image in transform folder
+2023-04-21 16:35:01,352 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\113.jpg
+2023-04-21 16:35:01,465 53 Filtering using original image
+2023-04-21 16:35:17,561 67 Edge extraction
+2023-04-21 16:35:17,562 72 Canny edge extraction
+2023-04-21 16:35:17,606 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:35:17,616 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:17,616 134 Converting cartoon back to rgb
+2023-04-21 16:35:17,621 157 Saving image in transform folder
+2023-04-21 16:35:17,790 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\114.jpg
+2023-04-21 16:35:17,928 53 Filtering using original image
+2023-04-21 16:35:19,035 67 Edge extraction
+2023-04-21 16:35:19,035 72 Canny edge extraction
+2023-04-21 16:35:19,067 99 dilation lauched
+2023-04-21 16:35:19,072 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:35:19,082 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:19,082 134 Converting cartoon back to rgb
+2023-04-21 16:35:19,088 157 Saving image in transform folder
+2023-04-21 16:35:19,269 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\115.jpg
+2023-04-21 16:35:19,427 59 Filtering using gray scale image
+2023-04-21 16:35:19,753 67 Edge extraction
+2023-04-21 16:35:19,753 78 Adaptative threshold edge extraction
+2023-04-21 16:35:19,753 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:35:19,753 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1675: error: (-215:Assertion failed) blockSize % 2 == 1 && blockSize > 1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:35:19,753 99 dilation lauched
+2023-04-21 16:35:19,764 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:35:19,768 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:19,768 134 Converting cartoon back to rgb
+2023-04-21 16:35:19,772 157 Saving image in transform folder
+2023-04-21 16:35:19,930 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\116.jpg
+2023-04-21 16:35:20,054 53 Filtering using original image
+2023-04-21 16:35:24,225 67 Edge extraction
+2023-04-21 16:35:24,226 78 Adaptative threshold edge extraction
+2023-04-21 16:35:24,226 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:35:24,226 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:35:24,226 99 dilation lauched
+2023-04-21 16:35:24,240 119 lauching the cartoonization operation with gradient
+2023-04-21 16:35:24,255 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:24,255 134 Converting cartoon back to rgb
+2023-04-21 16:35:24,261 157 Saving image in transform folder
+2023-04-21 16:35:24,412 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\117.jpg
+2023-04-21 16:35:24,617 53 Filtering using original image
+2023-04-21 16:35:48,207 67 Edge extraction
+2023-04-21 16:35:48,207 78 Adaptative threshold edge extraction
+2023-04-21 16:35:48,208 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:35:48,208 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:35:48,208 99 dilation lauched
+2023-04-21 16:35:48,213 119 lauching the cartoonization operation with gradient
+2023-04-21 16:35:48,231 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:48,231 134 Converting cartoon back to rgb
+2023-04-21 16:35:48,237 157 Saving image in transform folder
+2023-04-21 16:35:48,431 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\118.jpg
+2023-04-21 16:35:48,606 53 Filtering using original image
+2023-04-21 16:35:49,056 67 Edge extraction
+2023-04-21 16:35:49,056 72 Canny edge extraction
+2023-04-21 16:35:49,108 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:35:49,123 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:49,123 134 Converting cartoon back to rgb
+2023-04-21 16:35:49,129 157 Saving image in transform folder
+2023-04-21 16:35:49,296 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\119.jpg
+2023-04-21 16:35:49,303 53 Filtering using original image
+2023-04-21 16:35:51,066 67 Edge extraction
+2023-04-21 16:35:51,066 72 Canny edge extraction
+2023-04-21 16:35:51,071 99 dilation lauched
+2023-04-21 16:35:51,072 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:35:51,077 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:51,077 134 Converting cartoon back to rgb
+2023-04-21 16:35:51,077 157 Saving image in transform folder
+2023-04-21 16:35:51,081 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\12.jpg
+2023-04-21 16:35:51,121 59 Filtering using gray scale image
+2023-04-21 16:35:51,148 67 Edge extraction
+2023-04-21 16:35:51,148 78 Adaptative threshold edge extraction
+2023-04-21 16:35:51,148 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:35:51,148 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1675: error: (-215:Assertion failed) blockSize % 2 == 1 && blockSize > 1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:35:51,148 99 dilation lauched
+2023-04-21 16:35:51,149 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:35:51,149 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:51,149 134 Converting cartoon back to rgb
+2023-04-21 16:35:51,150 157 Saving image in transform folder
+2023-04-21 16:35:51,175 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\120.jpg
+2023-04-21 16:35:51,182 53 Filtering using original image
+2023-04-21 16:35:51,218 67 Edge extraction
+2023-04-21 16:35:51,218 72 Canny edge extraction
+2023-04-21 16:35:51,220 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:35:51,221 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:51,221 134 Converting cartoon back to rgb
+2023-04-21 16:35:51,222 157 Saving image in transform folder
+2023-04-21 16:35:51,227 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\121.jpg
+2023-04-21 16:35:51,230 53 Filtering using original image
+2023-04-21 16:35:51,247 67 Edge extraction
+2023-04-21 16:35:51,247 72 Canny edge extraction
+2023-04-21 16:35:51,250 99 dilation lauched
+2023-04-21 16:35:51,251 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:35:51,251 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:51,251 134 Converting cartoon back to rgb
+2023-04-21 16:35:51,252 157 Saving image in transform folder
+2023-04-21 16:35:51,259 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\122.jpg
+2023-04-21 16:35:51,263 53 Filtering using original image
+2023-04-21 16:35:51,776 67 Edge extraction
+2023-04-21 16:35:51,776 78 Adaptative threshold edge extraction
+2023-04-21 16:35:51,776 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:35:51,776 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:35:51,776 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:35:51,776 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:51,776 134 Converting cartoon back to rgb
+2023-04-21 16:35:51,777 157 Saving image in transform folder
+2023-04-21 16:35:51,780 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\123.jpg
+2023-04-21 16:35:51,784 59 Filtering using gray scale image
+2023-04-21 16:35:51,838 67 Edge extraction
+2023-04-21 16:35:51,839 78 Adaptative threshold edge extraction
+2023-04-21 16:35:51,839 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:35:51,840 119 lauching the cartoonization operation with gradient
+2023-04-21 16:35:51,843 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:35:51,843 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:51,843 134 Converting cartoon back to rgb
+2023-04-21 16:35:51,844 157 Saving image in transform folder
+2023-04-21 16:35:51,851 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\124.jpg
+2023-04-21 16:35:51,853 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\125.jpg
+2023-04-21 16:35:51,863 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\126.jpg
+2023-04-21 16:35:51,871 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\127.jpg
+2023-04-21 16:35:51,877 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\128.jpg
+2023-04-21 16:35:51,886 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\129.jpg
+2023-04-21 16:35:51,895 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\13.jpg
+2023-04-21 16:35:51,918 59 Filtering using gray scale image
+2023-04-21 16:35:53,560 67 Edge extraction
+2023-04-21 16:35:53,560 78 Adaptative threshold edge extraction
+2023-04-21 16:35:53,560 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:35:53,560 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1675: error: (-215:Assertion failed) blockSize % 2 == 1 && blockSize > 1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:35:53,561 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:35:53,561 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:53,561 134 Converting cartoon back to rgb
+2023-04-21 16:35:53,561 157 Saving image in transform folder
+2023-04-21 16:35:53,568 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\130.jpg
+2023-04-21 16:35:53,578 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\131.jpg
+2023-04-21 16:35:53,587 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\132.jpg
+2023-04-21 16:35:53,592 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\133.jpg
+2023-04-21 16:35:53,597 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\134.jpg
+2023-04-21 16:35:53,600 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\135.jpg
+2023-04-21 16:35:53,607 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\136.jpg
+2023-04-21 16:35:53,615 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\137.jpg
+2023-04-21 16:35:53,621 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\138.jpg
+2023-04-21 16:35:53,625 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\139.jpg
+2023-04-21 16:35:53,633 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\14.jpg
+2023-04-21 16:35:53,650 59 Filtering using gray scale image
+2023-04-21 16:35:53,829 67 Edge extraction
+2023-04-21 16:35:53,829 72 Canny edge extraction
+2023-04-21 16:35:53,834 99 dilation lauched
+2023-04-21 16:35:53,837 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:35:53,837 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:53,837 134 Converting cartoon back to rgb
+2023-04-21 16:35:53,839 157 Saving image in transform folder
+2023-04-21 16:35:53,849 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\140.jpg
+2023-04-21 16:35:53,859 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\141.jpg
+2023-04-21 16:35:53,867 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\142.jpg
+2023-04-21 16:35:53,874 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\143.jpg
+2023-04-21 16:35:53,884 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\144.jpg
+2023-04-21 16:35:53,891 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\145.jpg
+2023-04-21 16:35:53,895 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\146.jpg
+2023-04-21 16:35:53,900 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\147.jpg
+2023-04-21 16:35:53,907 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\148.jpg
+2023-04-21 16:35:53,910 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\149.jpg
+2023-04-21 16:35:53,915 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\15.jpg
+2023-04-21 16:35:53,930 53 Filtering using original image
+2023-04-21 16:35:53,932 67 Edge extraction
+2023-04-21 16:35:53,932 72 Canny edge extraction
+2023-04-21 16:35:53,937 99 dilation lauched
+2023-04-21 16:35:53,937 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:35:53,938 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:53,938 134 Converting cartoon back to rgb
+2023-04-21 16:35:53,939 157 Saving image in transform folder
+2023-04-21 16:35:53,951 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\150.jpg
+2023-04-21 16:35:53,956 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\151.jpg
+2023-04-21 16:35:53,960 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\152.jpg
+2023-04-21 16:35:53,963 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\153.jpg
+2023-04-21 16:35:53,971 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\154.jpg
+2023-04-21 16:35:53,980 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\155.jpg
+2023-04-21 16:35:53,987 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\156.jpg
+2023-04-21 16:35:53,995 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\157.jpg
+2023-04-21 16:35:54,005 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\158.jpg
+2023-04-21 16:35:54,011 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\159.jpg
+2023-04-21 16:35:54,018 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\16.jpg
+2023-04-21 16:35:54,042 59 Filtering using gray scale image
+2023-04-21 16:35:55,329 67 Edge extraction
+2023-04-21 16:35:55,329 72 Canny edge extraction
+2023-04-21 16:35:55,333 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:35:55,334 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:35:55,334 134 Converting cartoon back to rgb
+2023-04-21 16:35:55,335 157 Saving image in transform folder
+2023-04-21 16:35:55,350 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\160.jpg
+2023-04-21 16:35:55,358 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\161.jpg
+2023-04-21 16:35:55,363 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\162.jpg
+2023-04-21 16:35:55,366 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\163.jpg
+2023-04-21 16:35:55,371 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\164.jpg
+2023-04-21 16:35:55,376 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\165.jpg
+2023-04-21 16:35:55,380 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\166.jpg
+2023-04-21 16:35:55,385 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\167.jpg
+2023-04-21 16:35:55,390 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\168.jpg
+2023-04-21 16:35:55,396 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\169.jpg
+2023-04-21 16:35:55,401 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\17.jpg
+2023-04-21 16:35:55,522 53 Filtering using original image
+2023-04-21 16:36:00,875 67 Edge extraction
+2023-04-21 16:36:00,875 72 Canny edge extraction
+2023-04-21 16:36:00,902 99 dilation lauched
+2023-04-21 16:36:00,909 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:00,917 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:00,917 134 Converting cartoon back to rgb
+2023-04-21 16:36:00,920 157 Saving image in transform folder
+2023-04-21 16:36:01,030 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\170.jpg
+2023-04-21 16:36:01,039 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\171.jpg
+2023-04-21 16:36:01,042 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\172.jpg
+2023-04-21 16:36:01,047 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\173.jpg
+2023-04-21 16:36:01,052 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\174.jpg
+2023-04-21 16:36:01,057 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\175.jpg
+2023-04-21 16:36:01,060 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\176.jpg
+2023-04-21 16:36:01,065 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\177.jpg
+2023-04-21 16:36:01,070 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\178.jpg
+2023-04-21 16:36:01,074 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\179.jpg
+2023-04-21 16:36:01,078 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\18.jpg
+2023-04-21 16:36:01,100 59 Filtering using gray scale image
+2023-04-21 16:36:01,211 67 Edge extraction
+2023-04-21 16:36:01,211 72 Canny edge extraction
+2023-04-21 16:36:01,213 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:01,216 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:01,216 134 Converting cartoon back to rgb
+2023-04-21 16:36:01,216 157 Saving image in transform folder
+2023-04-21 16:36:01,227 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\180.jpg
+2023-04-21 16:36:01,234 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\181.jpg
+2023-04-21 16:36:01,242 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\182.jpg
+2023-04-21 16:36:01,248 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\183.jpg
+2023-04-21 16:36:01,253 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\184.jpg
+2023-04-21 16:36:01,262 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\185.jpg
+2023-04-21 16:36:01,269 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\186.jpg
+2023-04-21 16:36:01,275 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\187.jpg
+2023-04-21 16:36:01,280 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\188.jpg
+2023-04-21 16:36:01,283 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\189.jpg
+2023-04-21 16:36:01,287 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\19.jpg
+2023-04-21 16:36:01,302 59 Filtering using gray scale image
+2023-04-21 16:36:02,307 67 Edge extraction
+2023-04-21 16:36:02,307 78 Adaptative threshold edge extraction
+2023-04-21 16:36:02,307 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:36:02,307 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1675: error: (-215:Assertion failed) blockSize % 2 == 1 && blockSize > 1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:36:02,307 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:02,307 117 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:230: error: (-215:Assertion failed) (mtype == CV_8U || mtype == CV_8S) && _mask.sameSize(*psrc1) in function 'cv::binary_op'
+
+2023-04-21 16:36:02,307 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:02,307 134 Converting cartoon back to rgb
+2023-04-21 16:36:02,308 157 Saving image in transform folder
+2023-04-21 16:36:02,317 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\190.jpg
+2023-04-21 16:36:02,326 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\191.jpg
+2023-04-21 16:36:02,333 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\192.jpg
+2023-04-21 16:36:02,338 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\193.jpg
+2023-04-21 16:36:02,344 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\194.jpg
+2023-04-21 16:36:02,351 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\195.jpg
+2023-04-21 16:36:02,357 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\196.jpg
+2023-04-21 16:36:02,362 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\197.jpg
+2023-04-21 16:36:02,368 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\198.jpg
+2023-04-21 16:36:02,373 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\199.jpg
+2023-04-21 16:36:02,377 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\2.jpg
+2023-04-21 16:36:02,387 53 Filtering using original image
+2023-04-21 16:36:03,134 67 Edge extraction
+2023-04-21 16:36:03,134 72 Canny edge extraction
+2023-04-21 16:36:03,139 99 dilation lauched
+2023-04-21 16:36:03,140 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:03,144 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:03,144 134 Converting cartoon back to rgb
+2023-04-21 16:36:03,145 157 Saving image in transform folder
+2023-04-21 16:36:03,165 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\20.jpg
+2023-04-21 16:36:03,200 59 Filtering using gray scale image
+2023-04-21 16:36:03,256 67 Edge extraction
+2023-04-21 16:36:03,256 72 Canny edge extraction
+2023-04-21 16:36:03,259 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:03,260 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:36:03,261 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:03,261 134 Converting cartoon back to rgb
+2023-04-21 16:36:03,262 157 Saving image in transform folder
+2023-04-21 16:36:03,275 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\200.jpg
+2023-04-21 16:36:03,283 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\201.jpg
+2023-04-21 16:36:03,288 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\202.jpg
+2023-04-21 16:36:03,292 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\203.jpg
+2023-04-21 16:36:03,297 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\204.jpg
+2023-04-21 16:36:03,302 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\205.jpg
+2023-04-21 16:36:03,307 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\206.jpg
+2023-04-21 16:36:03,312 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\207.jpg
+2023-04-21 16:36:03,317 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\208.jpg
+2023-04-21 16:36:03,321 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\209.jpg
+2023-04-21 16:36:03,326 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\21.jpg
+2023-04-21 16:36:03,433 59 Filtering using gray scale image
+2023-04-21 16:36:04,718 67 Edge extraction
+2023-04-21 16:36:04,718 72 Canny edge extraction
+2023-04-21 16:36:04,727 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:04,737 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:04,737 134 Converting cartoon back to rgb
+2023-04-21 16:36:04,740 157 Saving image in transform folder
+2023-04-21 16:36:04,858 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\210.jpg
+2023-04-21 16:36:04,866 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\211.jpg
+2023-04-21 16:36:04,873 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\212.jpg
+2023-04-21 16:36:04,879 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\213.jpg
+2023-04-21 16:36:04,888 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\214.jpg
+2023-04-21 16:36:04,897 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\215.jpg
+2023-04-21 16:36:04,908 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\216.jpg
+2023-04-21 16:36:04,915 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\217.jpg
+2023-04-21 16:36:04,921 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\218.jpg
+2023-04-21 16:36:04,930 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\219.jpg
+2023-04-21 16:36:04,938 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\22.jpg
+2023-04-21 16:36:04,960 53 Filtering using original image
+2023-04-21 16:36:04,981 67 Edge extraction
+2023-04-21 16:36:04,981 72 Canny edge extraction
+2023-04-21 16:36:04,987 99 dilation lauched
+2023-04-21 16:36:04,988 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:04,991 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:04,991 134 Converting cartoon back to rgb
+2023-04-21 16:36:04,992 157 Saving image in transform folder
+2023-04-21 16:36:05,008 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\220.jpg
+2023-04-21 16:36:05,013 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\221.jpg
+2023-04-21 16:36:05,020 59 Filtering using gray scale image
+2023-04-21 16:36:05,029 67 Edge extraction
+2023-04-21 16:36:05,029 78 Adaptative threshold edge extraction
+2023-04-21 16:36:05,029 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:36:05,029 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1675: error: (-215:Assertion failed) blockSize % 2 == 1 && blockSize > 1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:36:05,029 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:05,030 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:05,030 134 Converting cartoon back to rgb
+2023-04-21 16:36:05,030 157 Saving image in transform folder
+2023-04-21 16:36:05,032 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\222.jpg
+2023-04-21 16:36:05,040 53 Filtering using original image
+2023-04-21 16:36:06,053 67 Edge extraction
+2023-04-21 16:36:06,053 72 Canny edge extraction
+2023-04-21 16:36:06,055 99 dilation lauched
+2023-04-21 16:36:06,055 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:06,056 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:06,056 134 Converting cartoon back to rgb
+2023-04-21 16:36:06,056 157 Saving image in transform folder
+2023-04-21 16:36:06,058 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\223.jpg
+2023-04-21 16:36:06,066 53 Filtering using original image
+2023-04-21 16:36:06,601 67 Edge extraction
+2023-04-21 16:36:06,601 78 Adaptative threshold edge extraction
+2023-04-21 16:36:06,601 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:36:06,601 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:36:06,601 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:06,602 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:36:06,602 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:06,602 134 Converting cartoon back to rgb
+2023-04-21 16:36:06,602 157 Saving image in transform folder
+2023-04-21 16:36:06,606 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\224.jpg
+2023-04-21 16:36:06,615 53 Filtering using original image
+2023-04-21 16:36:07,210 67 Edge extraction
+2023-04-21 16:36:07,210 72 Canny edge extraction
+2023-04-21 16:36:07,212 99 dilation lauched
+2023-04-21 16:36:07,212 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:07,212 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:07,213 134 Converting cartoon back to rgb
+2023-04-21 16:36:07,213 157 Saving image in transform folder
+2023-04-21 16:36:07,217 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\225.jpg
+2023-04-21 16:36:07,226 59 Filtering using gray scale image
+2023-04-21 16:36:07,292 67 Edge extraction
+2023-04-21 16:36:07,292 72 Canny edge extraction
+2023-04-21 16:36:07,293 99 dilation lauched
+2023-04-21 16:36:07,294 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:07,294 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:07,294 134 Converting cartoon back to rgb
+2023-04-21 16:36:07,295 157 Saving image in transform folder
+2023-04-21 16:36:07,297 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\226.jpg
+2023-04-21 16:36:07,303 59 Filtering using gray scale image
+2023-04-21 16:36:07,502 67 Edge extraction
+2023-04-21 16:36:07,502 72 Canny edge extraction
+2023-04-21 16:36:07,503 99 dilation lauched
+2023-04-21 16:36:07,503 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:07,504 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:07,504 134 Converting cartoon back to rgb
+2023-04-21 16:36:07,504 157 Saving image in transform folder
+2023-04-21 16:36:07,508 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\227.jpg
+2023-04-21 16:36:07,518 53 Filtering using original image
+2023-04-21 16:36:07,551 67 Edge extraction
+2023-04-21 16:36:07,551 78 Adaptative threshold edge extraction
+2023-04-21 16:36:07,551 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:36:07,551 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:36:07,551 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:07,552 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:07,552 134 Converting cartoon back to rgb
+2023-04-21 16:36:07,552 157 Saving image in transform folder
+2023-04-21 16:36:07,554 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\228.jpg
+2023-04-21 16:36:07,560 53 Filtering using original image
+2023-04-21 16:36:08,303 67 Edge extraction
+2023-04-21 16:36:08,303 72 Canny edge extraction
+2023-04-21 16:36:08,304 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:08,304 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:08,304 134 Converting cartoon back to rgb
+2023-04-21 16:36:08,305 157 Saving image in transform folder
+2023-04-21 16:36:08,307 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\229.jpg
+2023-04-21 16:36:08,314 59 Filtering using gray scale image
+2023-04-21 16:36:08,337 67 Edge extraction
+2023-04-21 16:36:08,337 78 Adaptative threshold edge extraction
+2023-04-21 16:36:08,337 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:36:08,337 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:08,337 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:08,337 134 Converting cartoon back to rgb
+2023-04-21 16:36:08,338 157 Saving image in transform folder
+2023-04-21 16:36:08,340 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\23.jpg
+2023-04-21 16:36:08,370 53 Filtering using original image
+2023-04-21 16:36:14,329 67 Edge extraction
+2023-04-21 16:36:14,330 72 Canny edge extraction
+2023-04-21 16:36:14,341 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:14,344 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:14,344 134 Converting cartoon back to rgb
+2023-04-21 16:36:14,345 157 Saving image in transform folder
+2023-04-21 16:36:14,360 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\230.jpg
+2023-04-21 16:36:14,369 53 Filtering using original image
+2023-04-21 16:36:14,431 67 Edge extraction
+2023-04-21 16:36:14,431 72 Canny edge extraction
+2023-04-21 16:36:14,432 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:14,433 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:14,433 134 Converting cartoon back to rgb
+2023-04-21 16:36:14,434 157 Saving image in transform folder
+2023-04-21 16:36:14,440 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\231.jpg
+2023-04-21 16:36:14,448 59 Filtering using gray scale image
+2023-04-21 16:36:14,568 67 Edge extraction
+2023-04-21 16:36:14,568 78 Adaptative threshold edge extraction
+2023-04-21 16:36:14,568 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:36:14,569 99 dilation lauched
+2023-04-21 16:36:14,569 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:14,570 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:14,570 134 Converting cartoon back to rgb
+2023-04-21 16:36:14,570 157 Saving image in transform folder
+2023-04-21 16:36:14,573 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\232.jpg
+2023-04-21 16:36:14,585 59 Filtering using gray scale image
+2023-04-21 16:36:14,631 67 Edge extraction
+2023-04-21 16:36:14,631 78 Adaptative threshold edge extraction
+2023-04-21 16:36:14,631 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:36:14,631 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:14,631 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:14,631 134 Converting cartoon back to rgb
+2023-04-21 16:36:14,632 157 Saving image in transform folder
+2023-04-21 16:36:14,634 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\233.jpg
+2023-04-21 16:36:14,646 59 Filtering using gray scale image
+2023-04-21 16:36:14,888 67 Edge extraction
+2023-04-21 16:36:14,888 72 Canny edge extraction
+2023-04-21 16:36:14,889 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:14,889 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:14,889 134 Converting cartoon back to rgb
+2023-04-21 16:36:14,890 157 Saving image in transform folder
+2023-04-21 16:36:14,896 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\234.jpg
+2023-04-21 16:36:14,904 59 Filtering using gray scale image
+2023-04-21 16:36:15,002 67 Edge extraction
+2023-04-21 16:36:15,002 72 Canny edge extraction
+2023-04-21 16:36:15,003 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:15,003 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:15,003 134 Converting cartoon back to rgb
+2023-04-21 16:36:15,003 157 Saving image in transform folder
+2023-04-21 16:36:15,005 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\235.jpg
+2023-04-21 16:36:15,012 53 Filtering using original image
+2023-04-21 16:36:15,050 67 Edge extraction
+2023-04-21 16:36:15,050 78 Adaptative threshold edge extraction
+2023-04-21 16:36:15,050 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:36:15,050 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:36:15,050 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:15,050 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:15,050 134 Converting cartoon back to rgb
+2023-04-21 16:36:15,050 157 Saving image in transform folder
+2023-04-21 16:36:15,053 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\24.jpg
+2023-04-21 16:36:15,081 59 Filtering using gray scale image
+2023-04-21 16:36:17,706 67 Edge extraction
+2023-04-21 16:36:17,707 78 Adaptative threshold edge extraction
+2023-04-21 16:36:17,707 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:36:17,718 99 dilation lauched
+2023-04-21 16:36:17,719 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:17,720 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:17,720 134 Converting cartoon back to rgb
+2023-04-21 16:36:17,721 157 Saving image in transform folder
+2023-04-21 16:36:17,738 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\25.jpg
+2023-04-21 16:36:17,757 59 Filtering using gray scale image
+2023-04-21 16:36:17,760 67 Edge extraction
+2023-04-21 16:36:17,760 72 Canny edge extraction
+2023-04-21 16:36:17,764 99 dilation lauched
+2023-04-21 16:36:17,764 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:17,765 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:17,765 134 Converting cartoon back to rgb
+2023-04-21 16:36:17,766 157 Saving image in transform folder
+2023-04-21 16:36:17,775 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\26.jpg
+2023-04-21 16:36:17,796 59 Filtering using gray scale image
+2023-04-21 16:36:19,282 67 Edge extraction
+2023-04-21 16:36:19,282 72 Canny edge extraction
+2023-04-21 16:36:19,285 99 dilation lauched
+2023-04-21 16:36:19,287 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:19,288 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:36:19,288 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:19,288 134 Converting cartoon back to rgb
+2023-04-21 16:36:19,289 157 Saving image in transform folder
+2023-04-21 16:36:19,297 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\27.jpg
+2023-04-21 16:36:19,461 59 Filtering using gray scale image
+2023-04-21 16:36:30,694 67 Edge extraction
+2023-04-21 16:36:30,695 78 Adaptative threshold edge extraction
+2023-04-21 16:36:30,695 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:36:30,728 99 dilation lauched
+2023-04-21 16:36:30,731 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:30,734 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:36:30,734 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:30,734 134 Converting cartoon back to rgb
+2023-04-21 16:36:30,735 157 Saving image in transform folder
+2023-04-21 16:36:30,752 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\28.jpg
+2023-04-21 16:36:30,894 53 Filtering using original image
+2023-04-21 16:36:53,571 67 Edge extraction
+2023-04-21 16:36:53,571 72 Canny edge extraction
+2023-04-21 16:36:53,595 99 dilation lauched
+2023-04-21 16:36:53,600 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:53,605 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:53,605 134 Converting cartoon back to rgb
+2023-04-21 16:36:53,609 157 Saving image in transform folder
+2023-04-21 16:36:53,741 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\29.jpg
+2023-04-21 16:36:53,768 53 Filtering using original image
+2023-04-21 16:36:53,881 67 Edge extraction
+2023-04-21 16:36:53,881 72 Canny edge extraction
+2023-04-21 16:36:53,885 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:53,889 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:53,889 134 Converting cartoon back to rgb
+2023-04-21 16:36:53,890 157 Saving image in transform folder
+2023-04-21 16:36:53,898 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\3.jpg
+2023-04-21 16:36:53,920 53 Filtering using original image
+2023-04-21 16:36:53,957 67 Edge extraction
+2023-04-21 16:36:53,957 78 Adaptative threshold edge extraction
+2023-04-21 16:36:53,957 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:36:53,957 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:36:53,957 99 dilation lauched
+2023-04-21 16:36:53,958 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:53,959 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:36:53,959 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:53,959 134 Converting cartoon back to rgb
+2023-04-21 16:36:53,960 157 Saving image in transform folder
+2023-04-21 16:36:53,967 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\30.jpg
+2023-04-21 16:36:53,985 53 Filtering using original image
+2023-04-21 16:36:56,775 67 Edge extraction
+2023-04-21 16:36:56,775 72 Canny edge extraction
+2023-04-21 16:36:56,781 99 dilation lauched
+2023-04-21 16:36:56,785 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:56,788 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:56,788 134 Converting cartoon back to rgb
+2023-04-21 16:36:56,790 157 Saving image in transform folder
+2023-04-21 16:36:56,813 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\31.jpg
+2023-04-21 16:36:56,843 59 Filtering using gray scale image
+2023-04-21 16:36:56,885 67 Edge extraction
+2023-04-21 16:36:56,885 72 Canny edge extraction
+2023-04-21 16:36:56,889 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:56,891 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:56,891 134 Converting cartoon back to rgb
+2023-04-21 16:36:56,892 157 Saving image in transform folder
+2023-04-21 16:36:56,918 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\32.jpg
+2023-04-21 16:36:56,941 53 Filtering using original image
+2023-04-21 16:36:56,952 67 Edge extraction
+2023-04-21 16:36:56,952 72 Canny edge extraction
+2023-04-21 16:36:56,958 99 dilation lauched
+2023-04-21 16:36:56,960 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:56,961 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:56,961 134 Converting cartoon back to rgb
+2023-04-21 16:36:56,962 157 Saving image in transform folder
+2023-04-21 16:36:56,975 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\33.jpg
+2023-04-21 16:36:56,999 53 Filtering using original image
+2023-04-21 16:36:57,342 67 Edge extraction
+2023-04-21 16:36:57,342 72 Canny edge extraction
+2023-04-21 16:36:57,346 99 dilation lauched
+2023-04-21 16:36:57,346 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:57,347 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:57,347 134 Converting cartoon back to rgb
+2023-04-21 16:36:57,348 157 Saving image in transform folder
+2023-04-21 16:36:57,358 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\34.jpg
+2023-04-21 16:36:57,378 59 Filtering using gray scale image
+2023-04-21 16:36:57,447 67 Edge extraction
+2023-04-21 16:36:57,447 72 Canny edge extraction
+2023-04-21 16:36:57,450 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:57,451 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:57,451 134 Converting cartoon back to rgb
+2023-04-21 16:36:57,452 157 Saving image in transform folder
+2023-04-21 16:36:57,468 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\35.jpg
+2023-04-21 16:36:57,482 53 Filtering using original image
+2023-04-21 16:36:57,627 67 Edge extraction
+2023-04-21 16:36:57,628 72 Canny edge extraction
+2023-04-21 16:36:57,634 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:57,635 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:57,635 134 Converting cartoon back to rgb
+2023-04-21 16:36:57,636 157 Saving image in transform folder
+2023-04-21 16:36:57,648 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\36.jpg
+2023-04-21 16:36:57,663 53 Filtering using original image
+2023-04-21 16:36:57,842 67 Edge extraction
+2023-04-21 16:36:57,842 72 Canny edge extraction
+2023-04-21 16:36:57,846 99 dilation lauched
+2023-04-21 16:36:57,846 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:57,847 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:57,848 134 Converting cartoon back to rgb
+2023-04-21 16:36:57,848 157 Saving image in transform folder
+2023-04-21 16:36:57,857 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\37.jpg
+2023-04-21 16:36:57,871 59 Filtering using gray scale image
+2023-04-21 16:36:57,913 67 Edge extraction
+2023-04-21 16:36:57,913 78 Adaptative threshold edge extraction
+2023-04-21 16:36:57,913 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:36:57,925 99 dilation lauched
+2023-04-21 16:36:57,926 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:57,926 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:57,927 134 Converting cartoon back to rgb
+2023-04-21 16:36:57,927 157 Saving image in transform folder
+2023-04-21 16:36:57,942 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\38.jpg
+2023-04-21 16:36:58,008 53 Filtering using original image
+2023-04-21 16:36:58,141 67 Edge extraction
+2023-04-21 16:36:58,141 72 Canny edge extraction
+2023-04-21 16:36:58,159 99 dilation lauched
+2023-04-21 16:36:58,162 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:58,164 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:58,164 134 Converting cartoon back to rgb
+2023-04-21 16:36:58,166 157 Saving image in transform folder
+2023-04-21 16:36:58,223 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\39.jpg
+2023-04-21 16:36:58,236 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\4.jpg
+2023-04-21 16:36:58,270 53 Filtering using original image
+2023-04-21 16:36:58,781 67 Edge extraction
+2023-04-21 16:36:58,781 78 Adaptative threshold edge extraction
+2023-04-21 16:36:58,781 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:36:58,781 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:36:58,781 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:58,783 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:58,783 134 Converting cartoon back to rgb
+2023-04-21 16:36:58,785 157 Saving image in transform folder
+2023-04-21 16:36:58,813 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\40.jpg
+2023-04-21 16:36:58,819 59 Filtering using gray scale image
+2023-04-21 16:36:59,021 67 Edge extraction
+2023-04-21 16:36:59,021 72 Canny edge extraction
+2023-04-21 16:36:59,024 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:36:59,025 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:59,025 134 Converting cartoon back to rgb
+2023-04-21 16:36:59,025 157 Saving image in transform folder
+2023-04-21 16:36:59,028 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\41.jpg
+2023-04-21 16:36:59,034 59 Filtering using gray scale image
+2023-04-21 16:36:59,049 67 Edge extraction
+2023-04-21 16:36:59,049 72 Canny edge extraction
+2023-04-21 16:36:59,049 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:59,049 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:59,049 134 Converting cartoon back to rgb
+2023-04-21 16:36:59,050 157 Saving image in transform folder
+2023-04-21 16:36:59,052 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\42.jpg
+2023-04-21 16:36:59,058 59 Filtering using gray scale image
+2023-04-21 16:36:59,232 67 Edge extraction
+2023-04-21 16:36:59,233 72 Canny edge extraction
+2023-04-21 16:36:59,233 99 dilation lauched
+2023-04-21 16:36:59,233 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:59,233 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:36:59,233 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:59,233 134 Converting cartoon back to rgb
+2023-04-21 16:36:59,235 157 Saving image in transform folder
+2023-04-21 16:36:59,237 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\43.jpg
+2023-04-21 16:36:59,243 59 Filtering using gray scale image
+2023-04-21 16:36:59,286 67 Edge extraction
+2023-04-21 16:36:59,287 72 Canny edge extraction
+2023-04-21 16:36:59,288 99 dilation lauched
+2023-04-21 16:36:59,288 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:36:59,288 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:59,288 134 Converting cartoon back to rgb
+2023-04-21 16:36:59,288 157 Saving image in transform folder
+2023-04-21 16:36:59,290 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\44.jpg
+2023-04-21 16:36:59,298 53 Filtering using original image
+2023-04-21 16:36:59,613 67 Edge extraction
+2023-04-21 16:36:59,613 78 Adaptative threshold edge extraction
+2023-04-21 16:36:59,613 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:36:59,613 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:36:59,613 119 lauching the cartoonization operation with gradient
+2023-04-21 16:36:59,613 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:36:59,614 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:36:59,614 134 Converting cartoon back to rgb
+2023-04-21 16:36:59,614 157 Saving image in transform folder
+2023-04-21 16:36:59,617 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\45.jpg
+2023-04-21 16:36:59,628 59 Filtering using gray scale image
+2023-04-21 16:37:06,241 67 Edge extraction
+2023-04-21 16:37:06,241 72 Canny edge extraction
+2023-04-21 16:37:06,242 119 lauching the cartoonization operation with gradient
+2023-04-21 16:37:06,242 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:37:06,242 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:06,243 134 Converting cartoon back to rgb
+2023-04-21 16:37:06,243 157 Saving image in transform folder
+2023-04-21 16:37:06,247 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\46.jpg
+2023-04-21 16:37:06,258 59 Filtering using gray scale image
+2023-04-21 16:37:06,260 67 Edge extraction
+2023-04-21 16:37:06,260 72 Canny edge extraction
+2023-04-21 16:37:06,261 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:37:06,262 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:06,262 134 Converting cartoon back to rgb
+2023-04-21 16:37:06,262 157 Saving image in transform folder
+2023-04-21 16:37:06,266 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\47.jpg
+2023-04-21 16:37:06,274 53 Filtering using original image
+2023-04-21 16:37:06,319 67 Edge extraction
+2023-04-21 16:37:06,319 78 Adaptative threshold edge extraction
+2023-04-21 16:37:06,319 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:37:06,319 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:37:06,319 119 lauching the cartoonization operation with gradient
+2023-04-21 16:37:06,319 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:37:06,319 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:06,319 134 Converting cartoon back to rgb
+2023-04-21 16:37:06,319 157 Saving image in transform folder
+2023-04-21 16:37:06,321 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\48.jpg
+2023-04-21 16:37:06,332 53 Filtering using original image
+2023-04-21 16:37:06,931 67 Edge extraction
+2023-04-21 16:37:06,931 72 Canny edge extraction
+2023-04-21 16:37:06,933 99 dilation lauched
+2023-04-21 16:37:06,933 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:37:06,933 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:06,933 134 Converting cartoon back to rgb
+2023-04-21 16:37:06,934 157 Saving image in transform folder
+2023-04-21 16:37:06,935 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\49.jpg
+2023-04-21 16:37:06,945 59 Filtering using gray scale image
+2023-04-21 16:37:07,210 67 Edge extraction
+2023-04-21 16:37:07,210 72 Canny edge extraction
+2023-04-21 16:37:07,211 99 dilation lauched
+2023-04-21 16:37:07,212 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:37:07,212 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:07,212 134 Converting cartoon back to rgb
+2023-04-21 16:37:07,212 157 Saving image in transform folder
+2023-04-21 16:37:07,216 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\5.jpg
+2023-04-21 16:37:07,245 53 Filtering using original image
+2023-04-21 16:37:09,465 67 Edge extraction
+2023-04-21 16:37:09,465 78 Adaptative threshold edge extraction
+2023-04-21 16:37:09,465 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:37:09,466 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:37:09,466 119 lauching the cartoonization operation with gradient
+2023-04-21 16:37:09,466 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:37:09,466 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:09,466 134 Converting cartoon back to rgb
+2023-04-21 16:37:09,466 157 Saving image in transform folder
+2023-04-21 16:37:09,468 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\50.jpg
+2023-04-21 16:37:09,474 53 Filtering using original image
+2023-04-21 16:37:09,898 67 Edge extraction
+2023-04-21 16:37:09,898 72 Canny edge extraction
+2023-04-21 16:37:09,899 99 dilation lauched
+2023-04-21 16:37:09,900 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:37:09,900 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:09,900 134 Converting cartoon back to rgb
+2023-04-21 16:37:09,900 157 Saving image in transform folder
+2023-04-21 16:37:09,903 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\51.jpg
+2023-04-21 16:37:09,909 53 Filtering using original image
+2023-04-21 16:37:09,975 67 Edge extraction
+2023-04-21 16:37:09,975 72 Canny edge extraction
+2023-04-21 16:37:09,977 119 lauching the cartoonization operation with gradient
+2023-04-21 16:37:09,977 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:09,977 134 Converting cartoon back to rgb
+2023-04-21 16:37:09,978 157 Saving image in transform folder
+2023-04-21 16:37:09,981 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\52.jpg
+2023-04-21 16:37:09,989 59 Filtering using gray scale image
+2023-04-21 16:37:10,067 67 Edge extraction
+2023-04-21 16:37:10,067 78 Adaptative threshold edge extraction
+2023-04-21 16:37:10,067 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:37:10,067 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1675: error: (-215:Assertion failed) blockSize % 2 == 1 && blockSize > 1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:37:10,067 119 lauching the cartoonization operation with gradient
+2023-04-21 16:37:10,067 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:37:10,067 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:10,067 134 Converting cartoon back to rgb
+2023-04-21 16:37:10,067 157 Saving image in transform folder
+2023-04-21 16:37:10,070 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\53.jpg
+2023-04-21 16:37:10,076 59 Filtering using gray scale image
+2023-04-21 16:37:10,228 67 Edge extraction
+2023-04-21 16:37:10,228 72 Canny edge extraction
+2023-04-21 16:37:10,229 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:37:10,230 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:10,230 134 Converting cartoon back to rgb
+2023-04-21 16:37:10,230 157 Saving image in transform folder
+2023-04-21 16:37:10,232 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\54.jpg
+2023-04-21 16:37:10,240 53 Filtering using original image
+2023-04-21 16:37:10,356 67 Edge extraction
+2023-04-21 16:37:10,356 72 Canny edge extraction
+2023-04-21 16:37:10,357 99 dilation lauched
+2023-04-21 16:37:10,358 119 lauching the cartoonization operation with gradient
+2023-04-21 16:37:10,358 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:10,358 134 Converting cartoon back to rgb
+2023-04-21 16:37:10,359 157 Saving image in transform folder
+2023-04-21 16:37:10,362 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\55.jpg
+2023-04-21 16:37:10,371 59 Filtering using gray scale image
+2023-04-21 16:37:10,528 67 Edge extraction
+2023-04-21 16:37:10,529 78 Adaptative threshold edge extraction
+2023-04-21 16:37:10,529 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:37:10,529 119 lauching the cartoonization operation with gradient
+2023-04-21 16:37:10,529 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:37:10,529 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:10,529 134 Converting cartoon back to rgb
+2023-04-21 16:37:10,529 157 Saving image in transform folder
+2023-04-21 16:37:10,532 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\56.jpg
+2023-04-21 16:37:10,540 53 Filtering using original image
+2023-04-21 16:37:10,551 67 Edge extraction
+2023-04-21 16:37:10,551 78 Adaptative threshold edge extraction
+2023-04-21 16:37:10,551 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:37:10,551 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:37:10,551 99 dilation lauched
+2023-04-21 16:37:10,551 119 lauching the cartoonization operation with gradient
+2023-04-21 16:37:10,551 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:10,551 134 Converting cartoon back to rgb
+2023-04-21 16:37:10,551 157 Saving image in transform folder
+2023-04-21 16:37:10,554 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\57.jpg
+2023-04-21 16:37:10,564 59 Filtering using gray scale image
+2023-04-21 16:37:10,569 67 Edge extraction
+2023-04-21 16:37:10,569 78 Adaptative threshold edge extraction
+2023-04-21 16:37:10,569 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:37:10,569 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:37:10,570 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:10,570 134 Converting cartoon back to rgb
+2023-04-21 16:37:10,570 157 Saving image in transform folder
+2023-04-21 16:37:10,573 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\58.jpg
+2023-04-21 16:37:10,581 59 Filtering using gray scale image
+2023-04-21 16:37:10,609 67 Edge extraction
+2023-04-21 16:37:10,609 72 Canny edge extraction
+2023-04-21 16:37:10,609 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:37:10,610 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:10,610 134 Converting cartoon back to rgb
+2023-04-21 16:37:10,610 157 Saving image in transform folder
+2023-04-21 16:37:10,612 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\59.jpg
+2023-04-21 16:37:10,618 59 Filtering using gray scale image
+2023-04-21 16:37:10,627 67 Edge extraction
+2023-04-21 16:37:10,627 78 Adaptative threshold edge extraction
+2023-04-21 16:37:10,627 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:37:10,627 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1675: error: (-215:Assertion failed) blockSize % 2 == 1 && blockSize > 1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:37:10,627 119 lauching the cartoonization operation with gradient
+2023-04-21 16:37:10,627 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:37:10,627 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:10,627 134 Converting cartoon back to rgb
+2023-04-21 16:37:10,628 157 Saving image in transform folder
+2023-04-21 16:37:10,631 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\6.jpg
+2023-04-21 16:37:10,763 53 Filtering using original image
+2023-04-21 16:37:11,747 67 Edge extraction
+2023-04-21 16:37:11,747 78 Adaptative threshold edge extraction
+2023-04-21 16:37:11,747 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:37:11,748 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:37:11,748 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:37:11,754 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:11,754 134 Converting cartoon back to rgb
+2023-04-21 16:37:11,758 157 Saving image in transform folder
+2023-04-21 16:37:11,916 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\60.jpg
+2023-04-21 16:37:11,940 53 Filtering using original image
+2023-04-21 16:37:14,954 67 Edge extraction
+2023-04-21 16:37:14,955 78 Adaptative threshold edge extraction
+2023-04-21 16:37:14,955 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:37:14,955 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:37:14,955 99 dilation lauched
+2023-04-21 16:37:14,955 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:37:14,955 117 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:230: error: (-215:Assertion failed) (mtype == CV_8U || mtype == CV_8S) && _mask.sameSize(*psrc1) in function 'cv::binary_op'
+
+2023-04-21 16:37:14,955 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:14,955 134 Converting cartoon back to rgb
+2023-04-21 16:37:14,960 157 Saving image in transform folder
+2023-04-21 16:37:15,088 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\61.jpg
+2023-04-21 16:37:15,107 53 Filtering using original image
+2023-04-21 16:37:15,227 67 Edge extraction
+2023-04-21 16:37:15,227 78 Adaptative threshold edge extraction
+2023-04-21 16:37:15,227 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:37:15,227 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:37:15,227 99 dilation lauched
+2023-04-21 16:37:15,227 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:37:15,229 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:15,229 134 Converting cartoon back to rgb
+2023-04-21 16:37:15,230 157 Saving image in transform folder
+2023-04-21 16:37:15,245 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\62.jpg
+2023-04-21 16:37:15,251 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\63.jpg
+2023-04-21 16:37:15,370 53 Filtering using original image
+2023-04-21 16:37:18,690 67 Edge extraction
+2023-04-21 16:37:18,691 72 Canny edge extraction
+2023-04-21 16:37:18,722 99 dilation lauched
+2023-04-21 16:37:18,727 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:37:18,746 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:18,747 134 Converting cartoon back to rgb
+2023-04-21 16:37:18,752 157 Saving image in transform folder
+2023-04-21 16:37:18,979 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\64.jpg
+2023-04-21 16:37:18,993 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\65.jpg
+2023-04-21 16:37:19,003 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\66.jpg
+2023-04-21 16:37:19,175 59 Filtering using gray scale image
+2023-04-21 16:37:19,205 67 Edge extraction
+2023-04-21 16:37:19,205 78 Adaptative threshold edge extraction
+2023-04-21 16:37:19,205 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:37:19,274 99 dilation lauched
+2023-04-21 16:37:19,284 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:37:19,292 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:19,293 134 Converting cartoon back to rgb
+2023-04-21 16:37:19,297 157 Saving image in transform folder
+2023-04-21 16:37:19,408 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\67.jpg
+2023-04-21 16:37:19,421 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\68.jpg
+2023-04-21 16:37:19,513 59 Filtering using gray scale image
+2023-04-21 16:37:23,903 67 Edge extraction
+2023-04-21 16:37:23,903 78 Adaptative threshold edge extraction
+2023-04-21 16:37:23,903 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:37:23,917 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:37:23,921 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:37:23,921 134 Converting cartoon back to rgb
+2023-04-21 16:37:23,924 157 Saving image in transform folder
+2023-04-21 16:37:24,065 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\69.jpg
+2023-04-21 16:37:24,248 53 Filtering using original image
+2023-04-21 16:38:13,618 67 Edge extraction
+2023-04-21 16:38:13,619 72 Canny edge extraction
+2023-04-21 16:38:13,698 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:38:13,707 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:38:13,707 134 Converting cartoon back to rgb
+2023-04-21 16:38:13,712 157 Saving image in transform folder
+2023-04-21 16:38:13,948 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\7.jpg
+2023-04-21 16:38:13,984 59 Filtering using gray scale image
+2023-04-21 16:38:14,134 67 Edge extraction
+2023-04-21 16:38:14,134 72 Canny edge extraction
+2023-04-21 16:38:14,140 119 lauching the cartoonization operation with gradient
+2023-04-21 16:38:14,141 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:38:14,141 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:38:14,141 134 Converting cartoon back to rgb
+2023-04-21 16:38:14,146 157 Saving image in transform folder
+2023-04-21 16:38:14,362 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\70.jpg
+2023-04-21 16:38:14,513 59 Filtering using gray scale image
+2023-04-21 16:38:15,852 67 Edge extraction
+2023-04-21 16:38:15,853 72 Canny edge extraction
+2023-04-21 16:38:15,865 119 lauching the cartoonization operation with gradient
+2023-04-21 16:38:15,868 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:38:15,869 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:38:15,869 134 Converting cartoon back to rgb
+2023-04-21 16:38:15,876 157 Saving image in transform folder
+2023-04-21 16:38:16,189 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\71.jpg
+2023-04-21 16:38:16,466 53 Filtering using original image
+2023-04-21 16:38:20,090 67 Edge extraction
+2023-04-21 16:38:20,091 72 Canny edge extraction
+2023-04-21 16:38:20,189 99 dilation lauched
+2023-04-21 16:38:20,196 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:38:20,232 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:38:20,232 134 Converting cartoon back to rgb
+2023-04-21 16:38:20,244 157 Saving image in transform folder
+2023-04-21 16:38:20,566 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\72.jpg
+2023-04-21 16:38:20,941 59 Filtering using gray scale image
+2023-04-21 16:38:41,464 67 Edge extraction
+2023-04-21 16:38:41,464 72 Canny edge extraction
+2023-04-21 16:38:41,482 119 lauching the cartoonization operation with gradient
+2023-04-21 16:38:41,489 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:38:41,489 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:38:41,489 134 Converting cartoon back to rgb
+2023-04-21 16:38:41,499 157 Saving image in transform folder
+2023-04-21 16:38:41,838 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\73.jpg
+2023-04-21 16:38:42,098 53 Filtering using original image
+2023-04-21 16:38:50,481 67 Edge extraction
+2023-04-21 16:38:50,481 78 Adaptative threshold edge extraction
+2023-04-21 16:38:50,482 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:38:50,482 94 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:38:50,482 99 dilation lauched
+2023-04-21 16:38:50,498 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:38:50,513 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:38:50,514 134 Converting cartoon back to rgb
+2023-04-21 16:38:50,523 157 Saving image in transform folder
+2023-04-21 16:38:50,898 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\74.jpg
+2023-04-21 16:38:51,103 59 Filtering using gray scale image
+2023-04-21 16:38:51,352 67 Edge extraction
+2023-04-21 16:38:51,352 72 Canny edge extraction
+2023-04-21 16:38:51,372 99 dilation lauched
+2023-04-21 16:38:51,389 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:38:51,405 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:38:51,405 134 Converting cartoon back to rgb
+2023-04-21 16:38:51,410 157 Saving image in transform folder
+2023-04-21 16:38:51,722 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\75.jpg
+2023-04-21 16:38:51,897 59 Filtering using gray scale image
+2023-04-21 16:38:52,278 67 Edge extraction
+2023-04-21 16:38:52,278 72 Canny edge extraction
+2023-04-21 16:38:52,294 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:38:52,303 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:38:52,304 134 Converting cartoon back to rgb
+2023-04-21 16:38:52,307 157 Saving image in transform folder
+2023-04-21 16:38:52,508 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\76.jpg
+2023-04-21 16:38:52,669 59 Filtering using gray scale image
+2023-04-21 16:38:53,319 67 Edge extraction
+2023-04-21 16:38:53,319 78 Adaptative threshold edge extraction
+2023-04-21 16:38:53,319 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:38:53,406 99 dilation lauched
+2023-04-21 16:38:53,416 119 lauching the cartoonization operation with gradient
+2023-04-21 16:38:53,429 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:38:53,429 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:38:53,429 134 Converting cartoon back to rgb
+2023-04-21 16:38:53,436 157 Saving image in transform folder
+2023-04-21 16:38:53,637 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\77.jpg
+2023-04-21 16:38:53,725 53 Filtering using original image
+2023-04-21 16:39:15,496 67 Edge extraction
+2023-04-21 16:39:15,496 72 Canny edge extraction
+2023-04-21 16:39:15,527 99 dilation lauched
+2023-04-21 16:39:15,532 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:39:15,539 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:39:15,539 134 Converting cartoon back to rgb
+2023-04-21 16:39:15,543 157 Saving image in transform folder
+2023-04-21 16:39:15,649 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\78.jpg
+2023-04-21 16:39:15,778 53 Filtering using original image
+2023-04-21 16:39:40,119 67 Edge extraction
+2023-04-21 16:39:40,119 78 Adaptative threshold edge extraction
+2023-04-21 16:39:40,119 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:39:40,119 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:39:40,120 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:39:40,125 117 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:230: error: (-215:Assertion failed) (mtype == CV_8U || mtype == CV_8S) && _mask.sameSize(*psrc1) in function 'cv::binary_op'
+
+2023-04-21 16:39:40,126 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:39:40,126 134 Converting cartoon back to rgb
+2023-04-21 16:39:40,130 157 Saving image in transform folder
+2023-04-21 16:39:40,251 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\79.jpg
+2023-04-21 16:39:40,401 59 Filtering using gray scale image
+2023-04-21 16:39:53,492 67 Edge extraction
+2023-04-21 16:39:53,492 72 Canny edge extraction
+2023-04-21 16:39:53,509 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:39:53,513 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:39:53,513 134 Converting cartoon back to rgb
+2023-04-21 16:39:53,517 157 Saving image in transform folder
+2023-04-21 16:39:53,671 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\8.jpg
+2023-04-21 16:39:53,709 53 Filtering using original image
+2023-04-21 16:39:53,714 67 Edge extraction
+2023-04-21 16:39:53,714 72 Canny edge extraction
+2023-04-21 16:39:53,730 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:39:53,736 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:39:53,736 134 Converting cartoon back to rgb
+2023-04-21 16:39:53,737 157 Saving image in transform folder
+2023-04-21 16:39:53,777 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\80.jpg
+2023-04-21 16:39:53,807 59 Filtering using gray scale image
+2023-04-21 16:39:55,551 67 Edge extraction
+2023-04-21 16:39:55,551 72 Canny edge extraction
+2023-04-21 16:39:55,555 99 dilation lauched
+2023-04-21 16:39:55,559 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:39:55,560 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:39:55,560 134 Converting cartoon back to rgb
+2023-04-21 16:39:55,561 157 Saving image in transform folder
+2023-04-21 16:39:55,575 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\81.jpg
+2023-04-21 16:39:55,748 59 Filtering using gray scale image
+2023-04-21 16:39:55,985 67 Edge extraction
+2023-04-21 16:39:55,986 72 Canny edge extraction
+2023-04-21 16:39:55,997 99 dilation lauched
+2023-04-21 16:39:56,010 119 lauching the cartoonization operation with gradient
+2023-04-21 16:39:56,016 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:39:56,016 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:39:56,017 134 Converting cartoon back to rgb
+2023-04-21 16:39:56,018 157 Saving image in transform folder
+2023-04-21 16:39:56,047 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\82.jpg
+2023-04-21 16:39:56,175 53 Filtering using original image
+2023-04-21 16:40:24,617 67 Edge extraction
+2023-04-21 16:40:24,617 72 Canny edge extraction
+2023-04-21 16:40:24,646 99 dilation lauched
+2023-04-21 16:40:24,659 119 lauching the cartoonization operation with gradient
+2023-04-21 16:40:24,672 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:40:24,672 134 Converting cartoon back to rgb
+2023-04-21 16:40:24,678 157 Saving image in transform folder
+2023-04-21 16:40:24,832 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\83.jpg
+2023-04-21 16:40:25,002 59 Filtering using gray scale image
+2023-04-21 16:40:26,104 67 Edge extraction
+2023-04-21 16:40:26,105 78 Adaptative threshold edge extraction
+2023-04-21 16:40:26,105 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:40:26,355 99 dilation lauched
+2023-04-21 16:40:26,359 119 lauching the cartoonization operation with gradient
+2023-04-21 16:40:26,366 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:40:26,366 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:40:26,366 134 Converting cartoon back to rgb
+2023-04-21 16:40:26,374 157 Saving image in transform folder
+2023-04-21 16:40:26,551 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\84.jpg
+2023-04-21 16:40:26,634 59 Filtering using gray scale image
+2023-04-21 16:40:28,066 67 Edge extraction
+2023-04-21 16:40:28,066 72 Canny edge extraction
+2023-04-21 16:40:28,079 99 dilation lauched
+2023-04-21 16:40:28,088 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:40:28,094 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:40:28,094 134 Converting cartoon back to rgb
+2023-04-21 16:40:28,096 157 Saving image in transform folder
+2023-04-21 16:40:28,173 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\85.jpg
+2023-04-21 16:40:28,206 53 Filtering using original image
+2023-04-21 16:40:31,694 67 Edge extraction
+2023-04-21 16:40:31,694 78 Adaptative threshold edge extraction
+2023-04-21 16:40:31,694 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:40:31,694 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:40:31,694 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:40:31,696 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:40:31,696 134 Converting cartoon back to rgb
+2023-04-21 16:40:31,697 157 Saving image in transform folder
+2023-04-21 16:40:31,708 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\86.jpg
+2023-04-21 16:40:31,865 59 Filtering using gray scale image
+2023-04-21 16:40:32,729 67 Edge extraction
+2023-04-21 16:40:32,729 78 Adaptative threshold edge extraction
+2023-04-21 16:40:32,729 90 Adaptative threshold edge extraction with gaussian thresholding
+2023-04-21 16:40:32,825 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:40:32,828 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:40:32,828 134 Converting cartoon back to rgb
+2023-04-21 16:40:32,832 157 Saving image in transform folder
+2023-04-21 16:40:33,020 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\87.jpg
+2023-04-21 16:40:33,034 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\88.jpg
+2023-04-21 16:40:33,195 53 Filtering using original image
+2023-04-21 16:41:10,531 67 Edge extraction
+2023-04-21 16:41:10,531 78 Adaptative threshold edge extraction
+2023-04-21 16:41:10,531 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:41:10,531 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:41:10,531 99 dilation lauched
+2023-04-21 16:41:10,539 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:41:10,548 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:41:10,548 134 Converting cartoon back to rgb
+2023-04-21 16:41:10,556 157 Saving image in transform folder
+2023-04-21 16:41:10,768 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\89.jpg
+2023-04-21 16:41:10,782 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\9.jpg
+2023-04-21 16:41:10,814 59 Filtering using gray scale image
+2023-04-21 16:41:11,233 67 Edge extraction
+2023-04-21 16:41:11,233 78 Adaptative threshold edge extraction
+2023-04-21 16:41:11,233 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:41:11,233 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1675: error: (-215:Assertion failed) blockSize % 2 == 1 && blockSize > 1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:41:11,233 119 lauching the cartoonization operation with gradient
+2023-04-21 16:41:11,239 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:41:11,239 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:41:11,239 134 Converting cartoon back to rgb
+2023-04-21 16:41:11,245 157 Saving image in transform folder
+2023-04-21 16:41:11,420 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\90.jpg
+2023-04-21 16:41:11,597 59 Filtering using gray scale image
+2023-04-21 16:41:12,468 67 Edge extraction
+2023-04-21 16:41:12,468 78 Adaptative threshold edge extraction
+2023-04-21 16:41:12,468 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:41:12,487 99 dilation lauched
+2023-04-21 16:41:12,505 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:41:12,516 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:41:12,516 134 Converting cartoon back to rgb
+2023-04-21 16:41:12,520 157 Saving image in transform folder
+2023-04-21 16:41:12,624 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\91.jpg
+2023-04-21 16:41:12,636 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\92.jpg
+2023-04-21 16:41:12,671 53 Filtering using original image
+2023-04-21 16:41:13,211 67 Edge extraction
+2023-04-21 16:41:13,211 78 Adaptative threshold edge extraction
+2023-04-21 16:41:13,211 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:41:13,211 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:41:13,211 99 dilation lauched
+2023-04-21 16:41:13,222 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:41:13,225 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:41:13,225 134 Converting cartoon back to rgb
+2023-04-21 16:41:13,227 157 Saving image in transform folder
+2023-04-21 16:41:13,271 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\93.jpg
+2023-04-21 16:41:13,500 59 Filtering using gray scale image
+2023-04-21 16:41:25,351 67 Edge extraction
+2023-04-21 16:41:25,351 72 Canny edge extraction
+2023-04-21 16:41:25,392 99 dilation lauched
+2023-04-21 16:41:25,397 119 lauching the cartoonization operation with gradient
+2023-04-21 16:41:25,401 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:41:25,401 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:41:25,401 134 Converting cartoon back to rgb
+2023-04-21 16:41:25,403 157 Saving image in transform folder
+2023-04-21 16:41:25,441 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\94.jpg
+2023-04-21 16:41:25,455 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\95.jpg
+2023-04-21 16:41:25,636 59 Filtering using gray scale image
+2023-04-21 16:41:41,068 67 Edge extraction
+2023-04-21 16:41:41,069 72 Canny edge extraction
+2023-04-21 16:41:41,100 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:41:41,103 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:41:41,103 134 Converting cartoon back to rgb
+2023-04-21 16:41:41,107 157 Saving image in transform folder
+2023-04-21 16:41:41,282 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\96.jpg
+2023-04-21 16:41:41,419 53 Filtering using original image
+2023-04-21 16:41:49,880 67 Edge extraction
+2023-04-21 16:41:49,880 72 Canny edge extraction
+2023-04-21 16:41:49,917 99 dilation lauched
+2023-04-21 16:41:49,925 126 lauching the cartoonization operation with with only grayscale
+2023-04-21 16:41:49,936 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:41:49,937 134 Converting cartoon back to rgb
+2023-04-21 16:41:49,942 157 Saving image in transform folder
+2023-04-21 16:41:50,127 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\97.jpg
+2023-04-21 16:41:50,284 53 Filtering using original image
+2023-04-21 16:42:04,385 67 Edge extraction
+2023-04-21 16:42:04,385 72 Canny edge extraction
+2023-04-21 16:42:04,426 99 dilation lauched
+2023-04-21 16:42:04,435 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:42:04,460 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:42:04,460 134 Converting cartoon back to rgb
+2023-04-21 16:42:04,466 157 Saving image in transform folder
+2023-04-21 16:42:04,710 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\98.jpg
+2023-04-21 16:42:04,848 53 Filtering using original image
+2023-04-21 16:42:16,966 67 Edge extraction
+2023-04-21 16:42:16,966 78 Adaptative threshold edge extraction
+2023-04-21 16:42:16,967 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:42:16,967 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:42:16,967 99 dilation lauched
+2023-04-21 16:42:16,978 112 lauching the cartoonization operation with inverse bitwise
+2023-04-21 16:42:17,001 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:42:17,001 134 Converting cartoon back to rgb
+2023-04-21 16:42:17,008 157 Saving image in transform folder
+2023-04-21 16:42:17,150 36 C:\Users\Tchouanga\OneDrive - aivancity\Documents\GitHub\image_cartoonizer\data/renamed_images\99.jpg
+2023-04-21 16:42:17,316 53 Filtering using original image
+2023-04-21 16:42:17,730 67 Edge extraction
+2023-04-21 16:42:17,730 78 Adaptative threshold edge extraction
+2023-04-21 16:42:17,730 84 Adaptative threshold edge extraction with mean thresholding
+2023-04-21 16:42:17,730 88 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1674: error: (-215:Assertion failed) src.type() == CV_8UC1 in function 'cv::adaptiveThreshold'
+
+2023-04-21 16:42:17,730 119 lauching the cartoonization operation with gradient
+2023-04-21 16:42:17,736 124 OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\core\src\arithm.cpp:214: error: (-209:Sizes of input arguments do not match) The operation is neither 'array op array' (where arrays have the same size and type), nor 'array op scalar', nor 'scalar op array' in function 'cv::binary_op'
+
+2023-04-21 16:42:17,736 132 Creating the transform image folder and storing the images transformed
+2023-04-21 16:42:17,736 134 Converting cartoon back to rgb
+2023-04-21 16:42:17,742 157 Saving image in transform folder
