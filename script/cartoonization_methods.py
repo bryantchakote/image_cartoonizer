@@ -1,10 +1,16 @@
+import os
 import logging
 import cv2
+import inspect
+
+# Current directory
+current_dir = os.getcwd()
 
 # Create and configure the logger
+log_file_path = os.path.join(current_dir, '../logs/cartoonize.log')
 logging.basicConfig(
-    filename='../logs/cartoonization.log',
-    filemode='a',
+    filename=log_file_path,
+    filemode='w',
     format='%(asctime)s - %(filename)s line %(lineno)d - %(levelname)s: %(message)s',
     datefmt='%Y-%m-%d %H:%M:%S',
     level=logging.INFO
@@ -14,7 +20,7 @@ logger = logging.getLogger()
 
 # Cartoonizer 1
 def cartoonizer_1(image):
-    logger.info('Using cartoonizer 1')
+    logger.info(f'Using {inspect.currentframe().f_code.co_name}') # get the name of the running function
 
     try:
         ## Grayscale the image
@@ -40,24 +46,9 @@ def cartoonizer_1(image):
 
 # Cartoonizer 2
 def cartoonizer_2(image):
-    logger.info('Using cartoonizer 2')
+    logger.info(f'Using {inspect.currentframe().f_code.co_name}') # get the name of the running function
 
-    try:
-        ## Apply bilateral filter to smoothen the image while preserving edges
-        bilateral_filtered_image = cv2.bilateralFilter(image, 7, 75, 75)
-
-        ## Convert image to grayscale
-        gray_image = cv2.cvtColor(bilateral_filtered_image, cv2.COLOR_BGR2GRAY)
-
-        ## Apply adaptive thresholding to extract edges
-        edge_detected_image = cv2.adaptiveThreshold(gray_image, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY, 9, 2)
-
-        ## Convert edges back to color
-        edge_detected_image = cv2.cvtColor(edge_detected_image, cv2.COLOR_GRAY2BGR)
-
-        ## Apply bitwise_and to merge the edges with the original image
-        cartoon_image = cv2.bitwise_and(bilateral_filtered_image, edge_detected_image)
-        
+    try:        
         ## Apply bilateral filter to smoothen the image while preserving edges
         bilateral_filtered_image = cv2.bilateralFilter(image, 7, 75, 75)
 

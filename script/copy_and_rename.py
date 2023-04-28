@@ -1,17 +1,50 @@
+from time import time
 import os
 import shutil
+import logging
+from natsort import natsorted
+from utils import create_if_not_exist_or_delete_everything_inside
+import sys
+from tqdm import tqdm
 
-# Source and destination folder paths
-# !!! If you're not running the script from the "script" folder this path will not work !!!
-src_folder = '../data/original_images'
-dest_folder = '../data/renamed_images'
+# Start
+start = time()
 
-if not os.path.exists(dest_folder):
-    os.makedirs(dest_folder)
+# Current directory
+current_dir = os.getcwd()
 
-# Iterate through all the files in the source folder
+# Create and configure the logger
+log_file_path = os.path.join(current_dir, '../logs/copy_and_rename.log')
+logging.basicConfig(
+    filename=log_file_path,
+    filemode='w',
+    format='%(asctime)s - %(filename)s line %(lineno)d - %(levelname)s: %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S',
+    level=logging.INFO
+)
+
+logger = logging.getLogger()
+
+# Source and destination directories
+src_dir = os.path.join(current_dir, '../data/original_images')
+dest_dir = os.path.join(current_dir, '../data/groundtruth_images')
+
+# Create the destination directory or empty it
+create_if_not_exist_or_delete_everything_inside(dest_dir, log_file_path=log_file_path)
+
+# Iterate through all the files in the source directory and rename them
+msg = 'Copying and renaming the images...'
+print(msg), logger.info(msg)
 i = 1
-for filename in os.listdir(src_folder):
+for filename in tqdm(natsorted(os.listdir(src_dir))):
     new_filename = str(i) + '.jpg'
-    shutil.copy(os.path.join(src_folder, filename), os.path.join(dest_folder, new_filename))
+    try:
+        shutil.copy(os.path.join(src_dir, filename), os.path.join(dest_dir, new_filename))
+    except Exception as e:
+        print(e), logger.info(e)
     i += 1
+
+# End
+end = time() - start
+msg = f'Copy and rename finished within {end}s'
+print(msg), logger.info(msg)

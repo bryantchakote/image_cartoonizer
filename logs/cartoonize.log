@@ -1,0 +1,952 @@
+2023-04-28 03:15:44 - cartoonization_methods.py line 75 - INFO: Cartoonization methods loaded successfully
+2023-04-28 03:15:44 - cartoonize.py line 33 - INFO: Accessing the images directory...
+2023-04-28 03:15:44 - cartoonize.py line 39 - INFO: Successfully accessed C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images
+2023-04-28 03:15:44 - cartoonize.py line 47 - INFO: Start cartoonizing...
+2023-04-28 03:15:44 - cartoonize.py line 49 - INFO: Creating the cartoonized images directory...
+2023-04-28 03:15:44 - utils.py line 34 - INFO: utils.create_if_not_exist_or_delete_everything_inside running...
+2023-04-28 03:15:44 - utils.py line 52 - INFO: Folder C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images already exists
+2023-04-28 03:15:44 - utils.py line 54 - INFO: Emptying it...
+2023-04-28 03:15:44 - utils.py line 67 - INFO: Deletion done within 0.2359604835510254s
+2023-04-28 03:15:44 - cartoonize.py line 57 - INFO: Cartoonization running...
+2023-04-28 03:15:44 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\1.jpg, loaded successfully
+2023-04-28 03:15:44 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:44 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:44 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\1.jpg
+2023-04-28 03:15:44 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\2.jpg, loaded successfully
+2023-04-28 03:15:44 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:44 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:44 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\2.jpg
+2023-04-28 03:15:44 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\3.jpg, loaded successfully
+2023-04-28 03:15:44 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:44 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:44 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\3.jpg
+2023-04-28 03:15:44 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\4.jpg, loaded successfully
+2023-04-28 03:15:44 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:44 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:44 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\4.jpg
+2023-04-28 03:15:45 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\5.jpg, loaded successfully
+2023-04-28 03:15:45 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:45 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:45 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\5.jpg
+2023-04-28 03:15:45 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\6.jpg, loaded successfully
+2023-04-28 03:15:45 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:45 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:45 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\6.jpg
+2023-04-28 03:15:45 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\7.jpg, loaded successfully
+2023-04-28 03:15:45 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:45 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:45 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\7.jpg
+2023-04-28 03:15:45 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\8.jpg, loaded successfully
+2023-04-28 03:15:45 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:45 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:45 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\8.jpg
+2023-04-28 03:15:45 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\9.jpg, loaded successfully
+2023-04-28 03:15:45 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:45 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:45 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\9.jpg
+2023-04-28 03:15:45 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\10.jpg, loaded successfully
+2023-04-28 03:15:45 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:45 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:45 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\10.jpg
+2023-04-28 03:15:45 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\11.jpg, loaded successfully
+2023-04-28 03:15:45 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:45 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:45 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\11.jpg
+2023-04-28 03:15:45 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\12.jpg, loaded successfully
+2023-04-28 03:15:45 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:45 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:46 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\12.jpg
+2023-04-28 03:15:46 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\13.jpg, loaded successfully
+2023-04-28 03:15:46 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:46 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:46 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\13.jpg
+2023-04-28 03:15:46 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\14.jpg, loaded successfully
+2023-04-28 03:15:46 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:46 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:46 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\14.jpg
+2023-04-28 03:15:46 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\15.jpg, loaded successfully
+2023-04-28 03:15:46 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:46 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:46 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\15.jpg
+2023-04-28 03:15:46 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\16.jpg, loaded successfully
+2023-04-28 03:15:46 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:46 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:46 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\16.jpg
+2023-04-28 03:15:46 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\17.jpg, loaded successfully
+2023-04-28 03:15:46 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:46 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:46 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\17.jpg
+2023-04-28 03:15:46 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\18.jpg, loaded successfully
+2023-04-28 03:15:46 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:46 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:46 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\18.jpg
+2023-04-28 03:15:46 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\19.jpg, loaded successfully
+2023-04-28 03:15:46 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:46 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:46 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\19.jpg
+2023-04-28 03:15:46 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\20.jpg, loaded successfully
+2023-04-28 03:15:46 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:46 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:47 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\20.jpg
+2023-04-28 03:15:47 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\21.jpg, loaded successfully
+2023-04-28 03:15:47 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:47 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:47 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\21.jpg
+2023-04-28 03:15:47 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\22.jpg, loaded successfully
+2023-04-28 03:15:47 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:47 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:47 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\22.jpg
+2023-04-28 03:15:47 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\23.jpg, loaded successfully
+2023-04-28 03:15:47 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:47 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:48 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\23.jpg
+2023-04-28 03:15:48 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\24.jpg, loaded successfully
+2023-04-28 03:15:48 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:48 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:48 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\24.jpg
+2023-04-28 03:15:48 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\25.jpg, loaded successfully
+2023-04-28 03:15:48 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:48 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:48 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\25.jpg
+2023-04-28 03:15:48 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\26.jpg, loaded successfully
+2023-04-28 03:15:48 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:48 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:48 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\26.jpg
+2023-04-28 03:15:48 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\27.jpg, loaded successfully
+2023-04-28 03:15:48 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:48 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:49 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\27.jpg
+2023-04-28 03:15:49 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\28.jpg, loaded successfully
+2023-04-28 03:15:49 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:49 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:49 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\28.jpg
+2023-04-28 03:15:49 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\29.jpg, loaded successfully
+2023-04-28 03:15:49 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:49 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:49 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\29.jpg
+2023-04-28 03:15:49 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\30.jpg, loaded successfully
+2023-04-28 03:15:49 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:49 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:49 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\30.jpg
+2023-04-28 03:15:49 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\31.jpg, loaded successfully
+2023-04-28 03:15:49 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:49 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:49 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\31.jpg
+2023-04-28 03:15:49 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\32.jpg, loaded successfully
+2023-04-28 03:15:49 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:50 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:50 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\32.jpg
+2023-04-28 03:15:50 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\33.jpg, loaded successfully
+2023-04-28 03:15:50 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:51 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:51 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\33.jpg
+2023-04-28 03:15:51 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\34.jpg, loaded successfully
+2023-04-28 03:15:51 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:15:51 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:15:52 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\34.jpg
+2023-04-28 03:15:53 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\35.jpg, loaded successfully
+2023-04-28 03:15:53 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:53 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:53 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\35.jpg
+2023-04-28 03:15:54 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\36.jpg, loaded successfully
+2023-04-28 03:15:54 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:54 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:54 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\36.jpg
+2023-04-28 03:15:55 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\37.jpg, loaded successfully
+2023-04-28 03:15:55 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:55 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:56 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\37.jpg
+2023-04-28 03:15:56 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\38.jpg, loaded successfully
+2023-04-28 03:15:56 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:56 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:56 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\38.jpg
+2023-04-28 03:15:57 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\39.jpg, loaded successfully
+2023-04-28 03:15:57 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:57 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:58 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\39.jpg
+2023-04-28 03:15:58 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\40.jpg, loaded successfully
+2023-04-28 03:15:58 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:15:58 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:15:59 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\40.jpg
+2023-04-28 03:16:00 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\41.jpg, loaded successfully
+2023-04-28 03:16:00 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:00 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:01 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\41.jpg
+2023-04-28 03:16:02 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\42.jpg, loaded successfully
+2023-04-28 03:16:02 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:02 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\42.jpg
+2023-04-28 03:16:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\43.jpg, loaded successfully
+2023-04-28 03:16:03 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\43.jpg
+2023-04-28 03:16:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\44.jpg, loaded successfully
+2023-04-28 03:16:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\44.jpg
+2023-04-28 03:16:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\45.jpg, loaded successfully
+2023-04-28 03:16:07 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\45.jpg
+2023-04-28 03:16:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\46.jpg, loaded successfully
+2023-04-28 03:16:08 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\46.jpg
+2023-04-28 03:16:10 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\47.jpg, loaded successfully
+2023-04-28 03:16:10 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:11 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:11 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\47.jpg
+2023-04-28 03:16:12 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\48.jpg, loaded successfully
+2023-04-28 03:16:12 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:13 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:14 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\48.jpg
+2023-04-28 03:16:14 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\49.jpg, loaded successfully
+2023-04-28 03:16:14 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:15 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:15 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\49.jpg
+2023-04-28 03:16:15 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\50.jpg, loaded successfully
+2023-04-28 03:16:15 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:15 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:15 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\50.jpg
+2023-04-28 03:16:16 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\51.jpg, loaded successfully
+2023-04-28 03:16:16 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:16 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:16 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\51.jpg
+2023-04-28 03:16:17 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\52.jpg, loaded successfully
+2023-04-28 03:16:17 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:17 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:17 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\52.jpg
+2023-04-28 03:16:18 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\53.jpg, loaded successfully
+2023-04-28 03:16:18 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:18 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:18 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\53.jpg
+2023-04-28 03:16:18 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\54.jpg, loaded successfully
+2023-04-28 03:16:18 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:19 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:19 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\54.jpg
+2023-04-28 03:16:19 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\55.jpg, loaded successfully
+2023-04-28 03:16:19 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:19 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:19 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\55.jpg
+2023-04-28 03:16:19 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\56.jpg, loaded successfully
+2023-04-28 03:16:19 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:20 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:21 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\56.jpg
+2023-04-28 03:16:21 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\57.jpg, loaded successfully
+2023-04-28 03:16:21 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:21 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:22 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\57.jpg
+2023-04-28 03:16:22 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\58.jpg, loaded successfully
+2023-04-28 03:16:22 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:22 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:23 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\58.jpg
+2023-04-28 03:16:23 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\59.jpg, loaded successfully
+2023-04-28 03:16:23 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:24 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:25 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\59.jpg
+2023-04-28 03:16:26 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\60.jpg, loaded successfully
+2023-04-28 03:16:26 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:26 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:27 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\60.jpg
+2023-04-28 03:16:27 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\61.jpg, loaded successfully
+2023-04-28 03:16:27 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:28 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:28 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\61.jpg
+2023-04-28 03:16:28 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\62.jpg, loaded successfully
+2023-04-28 03:16:28 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:29 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:29 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\62.jpg
+2023-04-28 03:16:29 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\63.jpg, loaded successfully
+2023-04-28 03:16:29 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:30 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:30 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\63.jpg
+2023-04-28 03:16:31 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\64.jpg, loaded successfully
+2023-04-28 03:16:31 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:31 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:31 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\64.jpg
+2023-04-28 03:16:32 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\65.jpg, loaded successfully
+2023-04-28 03:16:32 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:33 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:33 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\65.jpg
+2023-04-28 03:16:34 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\66.jpg, loaded successfully
+2023-04-28 03:16:34 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:34 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:34 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\66.jpg
+2023-04-28 03:16:35 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\67.jpg, loaded successfully
+2023-04-28 03:16:35 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:35 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:35 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\67.jpg
+2023-04-28 03:16:36 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\68.jpg, loaded successfully
+2023-04-28 03:16:36 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:36 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:36 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\68.jpg
+2023-04-28 03:16:37 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\69.jpg, loaded successfully
+2023-04-28 03:16:37 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:37 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:38 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\69.jpg
+2023-04-28 03:16:38 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\70.jpg, loaded successfully
+2023-04-28 03:16:38 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:39 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:40 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\70.jpg
+2023-04-28 03:16:40 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\71.jpg, loaded successfully
+2023-04-28 03:16:40 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:40 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:41 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\71.jpg
+2023-04-28 03:16:41 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\72.jpg, loaded successfully
+2023-04-28 03:16:41 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:42 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:42 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\72.jpg
+2023-04-28 03:16:42 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\73.jpg, loaded successfully
+2023-04-28 03:16:42 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:43 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:44 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\73.jpg
+2023-04-28 03:16:44 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\74.jpg, loaded successfully
+2023-04-28 03:16:44 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:44 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:45 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\74.jpg
+2023-04-28 03:16:45 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\75.jpg, loaded successfully
+2023-04-28 03:16:45 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:45 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:46 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\75.jpg
+2023-04-28 03:16:47 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\76.jpg, loaded successfully
+2023-04-28 03:16:47 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:47 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:47 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\76.jpg
+2023-04-28 03:16:48 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\77.jpg, loaded successfully
+2023-04-28 03:16:48 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:50 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:51 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\77.jpg
+2023-04-28 03:16:51 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\78.jpg, loaded successfully
+2023-04-28 03:16:51 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:51 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:52 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\78.jpg
+2023-04-28 03:16:52 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\79.jpg, loaded successfully
+2023-04-28 03:16:52 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:52 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:53 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\79.jpg
+2023-04-28 03:16:53 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\80.jpg, loaded successfully
+2023-04-28 03:16:53 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:53 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:54 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\80.jpg
+2023-04-28 03:16:54 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\81.jpg, loaded successfully
+2023-04-28 03:16:54 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:55 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:55 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\81.jpg
+2023-04-28 03:16:55 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\82.jpg, loaded successfully
+2023-04-28 03:16:55 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:16:56 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:16:56 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\82.jpg
+2023-04-28 03:16:57 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\83.jpg, loaded successfully
+2023-04-28 03:16:57 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:57 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:57 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\83.jpg
+2023-04-28 03:16:57 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\84.jpg, loaded successfully
+2023-04-28 03:16:57 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:58 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:58 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\84.jpg
+2023-04-28 03:16:58 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\85.jpg, loaded successfully
+2023-04-28 03:16:58 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:59 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:16:59 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\85.jpg
+2023-04-28 03:16:59 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\86.jpg, loaded successfully
+2023-04-28 03:16:59 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:16:59 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:00 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\86.jpg
+2023-04-28 03:17:00 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\87.jpg, loaded successfully
+2023-04-28 03:17:00 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:01 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:01 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\87.jpg
+2023-04-28 03:17:01 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\88.jpg, loaded successfully
+2023-04-28 03:17:01 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:02 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:02 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\88.jpg
+2023-04-28 03:17:02 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\89.jpg, loaded successfully
+2023-04-28 03:17:02 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:02 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:02 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\89.jpg
+2023-04-28 03:17:02 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\90.jpg, loaded successfully
+2023-04-28 03:17:02 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:02 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:02 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\90.jpg
+2023-04-28 03:17:02 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\91.jpg, loaded successfully
+2023-04-28 03:17:02 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:02 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:02 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\91.jpg
+2023-04-28 03:17:02 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\92.jpg, loaded successfully
+2023-04-28 03:17:02 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:02 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\92.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\93.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\93.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\94.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\94.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\95.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:03 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\95.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\96.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\96.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\97.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:03 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\97.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\98.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\98.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\99.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:03 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\99.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\100.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\100.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\101.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\101.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\102.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:03 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\102.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\103.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\103.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\104.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\104.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\105.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:03 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\105.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\106.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\106.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\107.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:03 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\107.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\108.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\108.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\109.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:03 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\109.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\110.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\110.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\111.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:03 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\111.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\112.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\112.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\113.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:03 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:03 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\113.jpg
+2023-04-28 03:17:03 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\114.jpg, loaded successfully
+2023-04-28 03:17:03 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\114.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\115.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\115.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\116.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\116.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\117.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\117.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\118.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\118.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\119.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\119.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\120.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\120.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\121.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\121.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\122.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\122.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\123.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\123.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\124.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\124.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\125.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\125.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\126.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\126.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\127.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\127.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\128.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\128.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\129.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\129.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\130.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\130.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\131.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\131.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\132.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\132.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\133.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\133.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\134.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\134.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\135.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\135.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\136.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\136.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\137.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\137.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\138.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\138.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\139.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\139.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\140.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\140.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\141.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:04 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:04 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\141.jpg
+2023-04-28 03:17:04 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\142.jpg, loaded successfully
+2023-04-28 03:17:04 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:04 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\142.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\143.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:05 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\143.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\144.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:05 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\144.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\145.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:05 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\145.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\146.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:05 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\146.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\147.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:05 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\147.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\148.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:05 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\148.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\149.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:05 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\149.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\150.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:05 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\150.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\151.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:05 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\151.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\152.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:05 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\152.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\153.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:05 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\153.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\154.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:05 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\154.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\155.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:05 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\155.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\156.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:05 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\156.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\157.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:05 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\157.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\158.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:05 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\158.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\159.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:05 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:05 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\159.jpg
+2023-04-28 03:17:05 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\160.jpg, loaded successfully
+2023-04-28 03:17:05 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:06 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\160.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\161.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\161.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\162.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:06 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\162.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\163.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:06 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\163.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\164.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\164.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\165.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\165.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\166.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:06 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\166.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\167.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:06 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\167.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\168.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:06 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\168.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\169.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\169.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\170.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:06 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\170.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\171.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\171.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\172.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:06 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\172.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\173.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\173.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\174.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\174.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\175.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:06 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\175.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\176.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\176.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\177.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\177.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\178.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\178.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\179.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\179.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\180.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\180.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\181.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\181.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\182.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:06 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\182.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\183.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:06 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:06 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\183.jpg
+2023-04-28 03:17:06 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\184.jpg, loaded successfully
+2023-04-28 03:17:06 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\184.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\185.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\185.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\186.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\186.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\187.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\187.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\188.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\188.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\189.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:07 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\189.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\190.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:07 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\190.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\191.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:07 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\191.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\192.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:07 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\192.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\193.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\193.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\194.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\194.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\195.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:07 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\195.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\196.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\196.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\197.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\197.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\198.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:07 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\198.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\199.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:07 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\199.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\200.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:07 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:07 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\200.jpg
+2023-04-28 03:17:07 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\201.jpg, loaded successfully
+2023-04-28 03:17:07 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:08 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\201.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\202.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:08 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\202.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\203.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:08 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\203.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\204.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:08 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\204.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\205.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:08 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\205.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\206.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:08 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\206.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\207.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:08 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\207.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\208.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:08 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\208.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\209.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:08 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\209.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\210.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:08 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\210.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\211.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:08 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\211.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\212.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:08 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\212.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\213.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:08 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\213.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\214.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:08 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\214.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\215.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:08 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:08 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\215.jpg
+2023-04-28 03:17:08 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\216.jpg, loaded successfully
+2023-04-28 03:17:08 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:08 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\216.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\217.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:09 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\217.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\218.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\218.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\219.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\219.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\220.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:09 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\220.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\221.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\221.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\222.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\222.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\223.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:09 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\223.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\224.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\224.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\225.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:09 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\225.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\226.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:09 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\226.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\227.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\227.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\228.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\228.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\229.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:09 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\229.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\230.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\230.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\231.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\231.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\232.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:09 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\232.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\233.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\233.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\234.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 23 - INFO: Using cartoonizer_1
+2023-04-28 03:17:09 - cartoonization_methods.py line 44 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\234.jpg
+2023-04-28 03:17:09 - cartoonize.py line 67 - INFO: C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/groundtruth_images\235.jpg, loaded successfully
+2023-04-28 03:17:09 - cartoonization_methods.py line 49 - INFO: Using cartoonizer_2
+2023-04-28 03:17:09 - cartoonization_methods.py line 70 - INFO: Complete
+2023-04-28 03:17:09 - cartoonize.py line 92 - INFO: Cartoonized image saved to C:\Users\tchak\Documents\Aivancity\PGE 4\S2\Computer Vision\Project\image_cartoonizer\script\../data/cartoonized_images\235.jpg
+2023-04-28 03:17:09 - cartoonize.py line 99 - INFO: Done
+2023-04-28 03:17:09 - cartoonize.py line 104 - INFO: Cartoonization finished within 85.55445218086243s
