@@ -28,22 +28,22 @@ logging.basicConfig(
 
 logger = logging.getLogger()
 
-# Load the cartoonized and ground truth images
-msg = f'Loading the cartoonized and ground truth images...'
+# Load the ground truth and cartoonized images
+msg = f'Loading the ground truth and cartoonized images...'
 print(msg), logger.info(msg)
 
-cartoonized_images_dir = os.path.join(current_dir, '../data/cartoonized_images')
 groundtruth_images_dir = os.path.join(current_dir, '../data/groundtruth_images')
+cartoonized_images_dir = os.path.join(current_dir, '../data/cartoonized_images')
 
 ## Stop if one of the previous is missing
-if not (os.path.exists(cartoonized_images_dir) and os.path.exists(groundtruth_images_dir)):
-    msg = 'ERROR: cartoonized or ground truth images directory not found'
+if not (os.path.exists(groundtruth_images_dir) and os.path.exists(cartoonized_images_dir)):
+    msg = 'ERROR: ground truth or cartoonized images directory not found'
     print(msg), logger.error(msg)
     sys.exit()
 
 ## Stop if one of theprevious is empty
-if (len(os.listdir(cartoonized_images_dir)) == 0 or len(os.listdir(groundtruth_images_dir)) == 0):
-    msg = 'ERROR: cartoonized or ground truth images directory is empty'
+if (len(os.listdir(groundtruth_images_dir)) == 0 or len(os.listdir(cartoonized_images_dir)) == 0):
+    msg = 'ERROR: ground truth or cartoonized images directory is empty'
     print(msg), logger.error(msg)
     sys.exit()
 
@@ -61,21 +61,21 @@ SIZE = (256, 256) # single image size
 
 msg = f'Joining...'
 print(msg), logger.info(msg)
-for cartoonized_image_path, groundtruth_image_path in tqdm(zip(natsorted(os.listdir(cartoonized_images_dir)), natsorted(os.listdir(groundtruth_images_dir)))):
+for groundtruth_image_path, cartoonized_image_path in tqdm(zip(natsorted(os.listdir(groundtruth_images_dir)), natsorted(os.listdir(cartoonized_images_dir)))):
     ## If the names aren't the same, continue
-    if cartoonized_image_path != groundtruth_image_path:
-        msg = f'Incoherent images; the cartoonized: {cartoonized_image_path} doesn\'t match the groundtruth: {groundtruth_image_path}'
+    if groundtruth_image_path != cartoonized_image_path:
+        msg = f'Incoherent images; the groundtruth: {groundtruth_image_path} doesn\'t match the cartoonized: {cartoonized_image_path}'
         print(msg), logger.warning(msg)
     else:
         try:
-            cartoonized_image = cv2.imread(os.path.join(cartoonized_images_dir, cartoonized_image_path))
-            cartoonized_image = cv2.resize(cartoonized_image, SIZE)
             groundtruth_image = cv2.imread(os.path.join(groundtruth_images_dir, groundtruth_image_path))
             groundtruth_image = cv2.resize(groundtruth_image, SIZE)
-            transformed_image = cv2.hconcat([cartoonized_image, groundtruth_image])
-            cv2.imwrite(os.path.join(transformed_images_dir, cartoonized_image_path), transformed_image)
+            cartoonized_image = cv2.imread(os.path.join(cartoonized_images_dir, cartoonized_image_path))
+            cartoonized_image = cv2.resize(cartoonized_image, SIZE)
+            transformed_image = cv2.hconcat([groundtruth_image, cartoonized_image])
+            cv2.imwrite(os.path.join(transformed_images_dir, groundtruth_image_path), transformed_image)
             
-            msg = f'{os.path.join(transformed_images_dir, cartoonized_image_path)} writed successfully'
+            msg = f'{os.path.join(transformed_images_dir, groundtruth_image_path)} writed successfully'
             logger.info(msg)
         except Exception as e:
             print(e), logger.warning(e)
