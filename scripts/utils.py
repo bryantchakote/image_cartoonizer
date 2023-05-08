@@ -1,8 +1,8 @@
 import os
-import sys
-from time import time
-import shutil
 import logging
+from time import time
+import sys
+import shutil
 
 # Default log file
 current_dir = os.getcwd()

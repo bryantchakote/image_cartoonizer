@@ -1,11 +1,10 @@
 from time import time
 import os
-import shutil
 import logging
-from natsort import natsorted
 from utils import create_if_not_exist_or_delete_everything_inside
-import sys
 from tqdm import tqdm
+from natsort import natsorted
+import shutil
 
 # Start
 start = time()

@@ -1,14 +1,13 @@
 from time import time
-import cv2
-import matplotlib.pyplot as plt
-import random
 import os
 import logging
-import shutil
-from natsort import natsorted
 import sys
 from utils import create_if_not_exist_or_delete_everything_inside
 from tqdm import tqdm
+from natsort import natsorted
+import cv2
+import random
+import shutil
 
 # Start
 start = time()
@@ -74,7 +73,7 @@ for groundtruth_image_path, cartoonized_image_path in tqdm(zip(natsorted(os.list
             cartoonized_image = cv2.resize(cartoonized_image, SIZE)
             transformed_image = cv2.hconcat([groundtruth_image, cartoonized_image])
             cv2.imwrite(os.path.join(transformed_images_dir, groundtruth_image_path), transformed_image)
-            
+
             msg = f'{os.path.join(transformed_images_dir, groundtruth_image_path)} writed successfully'
             logger.info(msg)
         except Exception as e:

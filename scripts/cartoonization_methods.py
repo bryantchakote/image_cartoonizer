@@ -1,7 +1,7 @@
 import os
 import logging
-import cv2
 import inspect
+import cv2
 
 # Current directory
 current_dir = os.getcwd()
@@ -41,14 +41,14 @@ def cartoonizer_1(image):
         logger.error(e)
         return
     else:
-        logger.info('Complete')    
+        logger.info('Complete')
         return cartoon
 
 # Cartoonizer 2
 def cartoonizer_2(image):
     logger.info(f'Using {inspect.currentframe().f_code.co_name}') # get the name of the running function
 
-    try:        
+    try:
         ## Apply bilateral filter to smoothen the image while preserving edges
         bilateral_filtered_image = cv2.bilateralFilter(image, 7, 75, 75)
 

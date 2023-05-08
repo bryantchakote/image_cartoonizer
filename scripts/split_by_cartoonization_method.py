@@ -1,10 +1,9 @@
 from time import time
 import os
-import sys
-import shutil
-from utils import create_if_not_exist_or_delete_everything_inside
 import logging
 from tqdm import tqdm
+from utils import create_if_not_exist_or_delete_everything_inside
+import shutil
 
 # Start
 start = time()
@@ -68,7 +67,7 @@ for cartoonization_method in methods:
     method_dir = 'cartoonized_with_' + cartoonization_method
     method_dir = os.path.join(data_dir, method_dir)
     create_if_not_exist_or_delete_everything_inside(method_dir, log_file_path=log_file_path)
-    
+
     # Once the directory created or emptied, fill it with corresponding images
     method_images = [method_used['image_name'] for method_used in methods_used if method_used['method'] == cartoonization_method]
     src = os.path.join(data_dir, 'cartoonized_images') # take images from the carrtoonized ones
@@ -76,7 +75,7 @@ for cartoonization_method in methods:
 
     msg = 'Copying images to their transformation methods folder...'
     print(msg), logger.info(msg)
-    
+
     for image in tqdm(method_images):
         shutil.copy(os.path.join(src, image), dst)
 

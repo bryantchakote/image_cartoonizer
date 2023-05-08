@@ -1,14 +1,13 @@
 from time import time
-import logging
 import os
+import logging
 import sys
-import shutil
-from natsort import natsorted
-import cv2
-import random
-import cartoonization_methods
 from utils import create_if_not_exist_or_delete_everything_inside
 from tqdm import tqdm
+from natsort import natsorted
+import cv2
+import cartoonization_methods
+import random
 
 # Start
 start = time()
@@ -69,7 +68,7 @@ for image_file in tqdm(natsorted(os.listdir(groundtruth_images_dir))):
             try:
                 #### Select only the functions from the cartoonization_methods module
                 functions = [func for func in dir(cartoonization_methods) if callable(getattr(cartoonization_methods, func))]
-                    
+
                 #### Pick one of them
                 cartoonizer = random.choice(functions)
 
@@ -78,20 +77,13 @@ for image_file in tqdm(natsorted(os.listdir(groundtruth_images_dir))):
             except Exception as e:
                 print(e), logger.error(e)
             else:
+                ### Save the cartoonized image
+                cartoonized_image_path = os.path.join(cartoonized_images_dir, image_file)
                 try:
-                    ### Convert the BGR image to RGB
-                    # cartoon = cv2.cvtColor(cartoon, cv2.COLOR_BGR2RGB)
-                    pass
+                    cv2.imwrite(cartoonized_image_path, cartoon)
+                    logger.info(f'Cartoonized image saved to {cartoonized_image_path}')
                 except Exception as e:
                     print(e), logger.error(e)
-                else:
-                    ### Save the cartoonized image
-                    cartoonized_image_path = os.path.join(cartoonized_images_dir, image_file)
-                    try:
-                        cv2.imwrite(cartoonized_image_path, cartoon)
-                        logger.info(f'Cartoonized image saved to {cartoonized_image_path}')
-                    except Exception as e:
-                        print(e), logger.error(e)
         else:
             msg = f'{image_path} couldn\'t be read'
             print(msg), logger.error(msg)
